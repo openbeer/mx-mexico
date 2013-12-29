@@ -1,0 +1,136 @@
+
+###################################
+# Cerveceria Artesanal
+
+# todo: organize by state / estado
+
+
+#########################
+# Baja California
+
+Cervecería Mexicali
+  .. www.mexicalibeer.com
+
+# http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
+
+
+Consorcio Cervecero de Baja California, 1996
+  .. www.tjbeer.com
+
+# http://www.tjbeer.com/cervezas.html
+
+
+Cucapá Brewing Co, 2002
+  .. www.cucapa.com
+#Cerveza Cucapá, Baja California
+
+# http://www.cucapa.com/esp/pages/beers.php
+
+
+
+
+##################################
+# Estado de México, Edomex
+
+calavera, Cervecería Calavera     en Tlalnepantla de Baz   (Edomex, Estado de México)
+  .. calaverabeer.com (Under Construction)
+  .. twitter.com/calaverabeer
+
+-- beers
+# Witbier
+# American Pale Ale
+# Smoky Scotish Ale 80/-
+# Schwars
+
+
+
+jack, Cervecería Jack,  en Tlalnepantla de Baz
+  ..  cerveceriajack.com  (Under Construction)
+  ..  jjack9.wix.com/cerveceriajack
+
+
+#########################
+# Jalisco
+
+minerva, Cervecería Minerva, 2002
+  .. www.cervezaminerva.mx
+
+PERIFÉRICO SUR 4250, INTERIOR A3 COLONIA PERIODISTAS CP 45078
+ZAPOPAN, JALISCO, MÉXICO
+
+# http://www.cervezaminerva.mx/cervezas_minerva.html
+
+elaboran 9 estilos de cerveza:
+
+Minerva Colonial estilo Kolch,
+Minerva Viena estilo Vienna,
+Minerva Stout Imperial estilo Sweet Stout,
+Minerva Pale Ale estilo Middle Pale Ale,
+Minerva ITA estilo Imperial Tequila Ale,
+Minerva Diosa Blanca estilo Blanche Biere,
+Minerva 8:50 estilo India Pale Ale,
+Minerva Lupe Reyes estilo Dunkel Dopel Bock y
+Malverde estilo Pilsner Continental.
+
+
+
+
+
+Primus
+
+# elaboradores de la cerveza Tempus
+
+
+
+####################
+# Puebla, Pue.
+
+bayernbrau, Cervecería Bayernbrau de México, 2002(?)
+  ..   www.bayernbrau.com|www.cervezaweissbier.mx
+  
+Puebla, Pue.
+Ricardo Flores Magón No. 98 Nave 2-A Parque Industrial Sn.  Jerónimo Caleras Puebla, Pue
+Ricardo Flores Magón No. 98 - Nave 2A; Parque Industrial San Jerónimo Caleras - C.P. 72100 Puebla
+
+# http://www.cervezaweissbier.mx/portfolio.html
+
+
+Cervecería Cholula
+  .. www.cerveceriacholula.com
+  Cholula, México
+
+
+
+
+
+
+################
+# brewpubs
+
+Beer Factory, 1996 (?)
+ .. www.beerfactory.com
+
+-- beers
+# Mediterránea (light ale),
+# Coronel (pilsner),
+# Santa Fe (Viena),
+# Coyote (pale ale)
+# Luna Llena (stout irlandés)
+
+Sucursales
+en el DF: Plaza Cuicuilco, Centro Comercial Santa Fe y Av. Insurgentes Nte No.1812;
+en el Estado de México: Centro Comercial Mundo E y Pabellón Las Torres Megasatélite;
+en Puebla: Centro Comercial Angelópolis.
+
+
+
+Sierra Madre Brewing Co., 1996
+ .. www.smbc.com.mx
+
+Monterrey, NL ??
+
+
+
+
+
+

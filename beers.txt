@@ -30,10 +30,8 @@ Pacifico Light, by:pacifico, lite
 
 
 
-
-
 ########################
-# Cuauhtemoc Moctezuma
+# Cuauhtémoc Moctezuma
 
 Dos Equis|Dos XX|Dos XX Lager|Dos Equis Lager Especial, 4.3%,  by:cuamoc, pale_lager  # estilo pilsen; Color: Clara
 # see www.cuamoc.com/es/cerveza/dos-equis
