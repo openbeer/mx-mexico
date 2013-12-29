@@ -1,0 +1,25 @@
+#########################
+# Jalisco, Jal.
+
+
+minerva, Cervecería Minerva, 2002
+  .. www.cervezaminerva.mx
+
+PERIFÉRICO SUR 4250, INTERIOR A3 COLONIA PERIODISTAS CP 45078
+ZAPOPAN, JALISCO, MÉXICO
+
+# http://www.cervezaminerva.mx/cervezas_minerva.html
+
+elaboran 9 estilos de cerveza:
+
+Minerva Colonial estilo Kolch,
+Minerva Viena estilo Vienna,
+Minerva Stout Imperial estilo Sweet Stout,
+Minerva Pale Ale estilo Middle Pale Ale,
+Minerva ITA estilo Imperial Tequila Ale,
+Minerva Diosa Blanca estilo Blanche Biere,
+Minerva 8:50 estilo India Pale Ale,
+Minerva Lupe Reyes estilo Dunkel Dopel Bock y
+Malverde estilo Pilsner Continental.
+
+

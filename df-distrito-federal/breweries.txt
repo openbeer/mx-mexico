@@ -1,0 +1,32 @@
+#############################
+# Distrito Federal, D.F.
+
+
+primus, Cervecería Primus|Andreu Primus
+ .. www.primus.com.mx
+ .. twitter.com/PrimusBreweryMX
+ .. Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal
+
+# -- elaboradores de la cerveza Tempus
+
+
+
+
+################
+# brewpubs
+
+Beer Factory, 1996 (?)
+ .. www.beerfactory.com
+
+-- beers
+# Mediterránea (light ale),
+# Coronel (pilsner),
+# Santa Fe (Viena),
+# Coyote (pale ale)
+# Luna Llena (stout irlandés)
+
+Sucursales
+en el DF: Plaza Cuicuilco, Centro Comercial Santa Fe y Av. Insurgentes Nte No.1812;
+en el Estado de México: Centro Comercial Mundo E y Pabellón Las Torres Megasatélite;
+en Puebla: Centro Comercial Angelópolis.
+

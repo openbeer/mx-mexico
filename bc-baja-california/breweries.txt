@@ -1,0 +1,23 @@
+###################################################
+# Cerveceria Artesanal, Baja California, B.C.
+
+
+Cervecería Mexicali
+  .. www.mexicalibeer.com
+
+# http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
+
+
+tjbeer, Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
+  .. www.tjbeer.com
+
+# http://www.tjbeer.com/cervezas.html
+
+
+
+Cucapá Brewing Co, 2002
+  .. www.cucapa.com
+#Cerveza Cucapá, Baja California
+
+# http://www.cucapa.com/esp/pages/beers.php
+

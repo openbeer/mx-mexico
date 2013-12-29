@@ -1,0 +1,9 @@
+
+
+# Primus
+
+Tempus Doble Malta,  7 %,    altbier_imperial|ale
+Tempus Alt,          5.2 %,  altbier|ale
+Tempus Dorada,       4.3 %,  golden_ale|ale
+
+

@@ -1,0 +1,21 @@
+##################################
+# Estado de México, Edomex.
+
+
+calavera, Cervecería Calavera     en Tlalnepantla de Baz   (Edomex, Estado de México)
+  .. calaverabeer.com (Under Construction)
+  .. twitter.com/calaverabeer
+
+# -- beers
+# Witbier
+# American Pale Ale
+# Smoky Scotish Ale 80/-
+# Schwars
+
+
+
+
+jack, Cervecería Jack,  en Tlalnepantla de Baz
+  ..  cerveceriajack.com  (Under Construction)
+  ..  jjack9.wix.com/cerveceriajack
+

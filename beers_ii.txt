@@ -1,22 +1,3 @@
-
 ########################
 # Cerveza Artesanal /   microcervecerias ??
 
-
-
-Tijuana Güera
-Tijuana Light
-Tijuana Morena
-Tijuana Rosarito Beach
-
-
-
-Minerva Colonial estilo Kolch,
-Minerva Viena estilo Vienna,
-Minerva Stout Imperial estilo Sweet Stout,
-Minerva Pale Ale estilo Middle Pale Ale,
-Minerva ITA estilo Imperial Tequila Ale,
-Minerva Diosa Blanca estilo Blanche Biere,
-Minerva 8:50 estilo India Pale Ale,
-Minerva Lupe Reyes estilo Dunkel Dopel Bock y
-Malverde estilo Pilsner Continental.
