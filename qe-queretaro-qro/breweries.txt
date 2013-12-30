@@ -1,0 +1,20 @@
+########################
+#   Querétaro, Qro.
+
+
+
+queretaro, Cervecería Querétaro   # en Querétaro
+  .. www.cervezaqueretaro.com
+
+
+amalias, Cervecería Amalias
+  .. www.amalias.com.mx
+# San José Itho, Amealco, Qro.
+
+
+josefa, Cervecería Josefa
+  .. www.cerveceriajosefa.com
+
+# Tizoc 7 Col. Cumbres Conin, 
+# El marquez Querétaro.
+

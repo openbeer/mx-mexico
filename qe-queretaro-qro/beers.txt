@@ -1,0 +1,29 @@
+########################
+#   Querétaro, Qro.
+
+
+
+----------------------------
+- Cervecería Amalias
+---------------------------
+
+Amalias Ambar      # Mexican Pale Ale
+Amalias Tezontle   # Mexican Red Ale
+Amalias Obsidiana
+
+
+
+--------------------------------------
+- Cervecería Josefa     # en Querétaro
+--------------------------------------
+
+# Porter
+# Ambar
+# Trigo
+
+
+------------------------------------
+- Cervecería Querétaro
+-----------------------------------
+
+# Ambar Ale

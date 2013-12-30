@@ -20,39 +20,6 @@ Potro
 Horus
 
 
-----------------------------
-- Cervecería Amalias
----------------------------
-
-Amalias Ambar      # Mexican Pale Ale
-Amalias Tezontle   # Mexican Red Ale
-Amalias Obsidiana
-
-
----------------------------
-- Cerveza Criolla    # en Veracruz
----------------------------
-
-# Pilsen
-# Vienna
-# Bock
-
-
---------------------------------------
-- Cervecería Josefa     # en Querétaro
---------------------------------------
-
-# Porter
-# Ambar
-# Trigo
-
-
-------------------------------------
-- Cervecería Querétaro
------------------------------------
-
-# Ambar Ale
-
 
 ------------------------------------
 - Cerveza Afromestizo

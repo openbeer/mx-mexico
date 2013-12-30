@@ -13,31 +13,8 @@ Cervecera Mexicana  # en Guanajuato
 Cervecería La Brü   # en  Morelia, Michoacan
 
 
-
-queretaro, Cervecería Querétaro   # en Querétaro
-  .. www.cervezaqueretaro.com
-
-
-amalias, Cervecería Amalias
-  .. www.amalias.com.mx
-# San José Itho, Amealco, Qro.
-
-
-josefa, Cervecería Josefa
-  .. www.cerveceriajosefa.com
-
-# Tizoc 7 Col. Cumbres Conin, 
-# El marquez Querétaro.
-
-
 tepozteca, Cervecería Tepozteca    # en Tepoztlan
   .. www.tepozteca.com
-
-
-Cerveceria La Antigua   # en Jalapa Veracruz
-
-Cerveza Criolla    # en Veracruz
-  .. www.cervezacriolla.com.mx
 
 
 
