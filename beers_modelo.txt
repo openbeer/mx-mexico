@@ -4,9 +4,8 @@
 #        Tropico
 
 
------------------------------
+___________________
 - Grupo Modelo
------------------------------
 
 Barrilito, 3.6%,  pale_lager      # tipo pilsner
 
@@ -27,9 +26,8 @@ Victoria, 4%,  ME, city:toluca, vienna_lager   #  Compañía Cervecera Toluca y 
 Estrella, JA, city:guadalajara, pale_lager     # tipo pilsner - Cervecería Estrella (hoy Cervecería Modelo de Guadalajara
 
 
---------------------------------------
+___________________________
 - Tropico (Grupo Modelo)
----------------------------------------
 
 Montejo, 4.5%, by:tropico   # desde 1900
 León, 4.5%,  by:gmodelo, munich_dunkel_lager    # tipo munich  - desde 1900  -- check if by tropico??
@@ -47,9 +45,8 @@ León, 4.5%,  by:gmodelo, munich_dunkel_lager    # tipo munich  - desde 1900  --
 # Compañía Cervecera del Tropico im Bundesstaat Oaxaca produziert.
 
 
----------------------------------------
+_____________________________
 - Pacifico (Grupo Modelo)
-----------------------------------------
 
 Pacifico|Pacifico Clara, 4.5%, by:pacifico, pale_lager   # Cervecería del Pacífico en Mazatlán, Sinaloa.
 Pacifico Light, by:pacifico, lite|lager

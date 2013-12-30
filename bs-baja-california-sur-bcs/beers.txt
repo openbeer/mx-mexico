@@ -2,9 +2,8 @@
 # Baja California Sur, B.C.S.
 
 
--------------------------------
--  Cervecería Baja Brewing Co|Baja Brewing|Cervecería de Los Cabos San Lucas
--------------------------------
+_______________________________________________________________________________
+- Baja Brewing|Cervecería de Los Cabos San Lucas
 
 Cabotella
 Rasberry Lager
@@ -13,3 +12,4 @@ Peliroja
 Escorpión Negro
 Peyote India Pale Ale
 Oatmeal Stout
+

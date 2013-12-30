@@ -2,20 +2,23 @@
 # Cerveceria Artesanal, Baja California, B.C.
 
 
-mexicali, Cervecería Mexicali|Cervecería Mexicana
-  .. Ensenada | Baja California
-  .. www.mexicalibeer.com
-  
+[mexicali]
+  Cervecería Mexicali|Cervecería Mexicana
+  Ensenada | Baja California
+  www.mexicalibeer.com
+
 # bought by Coors
 
 
-tjbeer, Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
-  .. www.tjbeer.com
+[tjbeer]
+  Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
+  www.tjbeer.com
 
 
-cucapa, Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
-  .. www.cucapa.com
-  .. Mexicali | Baja California
+[cucapa]
+  Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
+  www.cucapa.com
+  Mexicali | Baja California
 
 # Blvd. López Mateos 2301 
 # Col. Sánchez Taboada,
@@ -25,22 +28,25 @@ cucapa, Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
 
 
 
-ramuri, Cervecería Rámuri   #  en Tijuana
-  .. www.cervezaramuri.com
+[ramuri]
+  Cervecería Rámuri   #  en Tijuana
+  www.cervezaramuri.com
 
+[ensenada]
+   Ensenada Microbrewery
 
-ensenada, Ensenada Microbrewery
-
-canneria, Canneria Cerveza, 2010    # en Ensenada
-  .. www.canneriacerveza.com.mx
+[canneria]
+  Canneria Cerveza, 2010    # en Ensenada
+  www.canneriacerveza.com.mx
 
 # Blvd. Costero no. 656 int. 
 # H-8 Zona Centro C.P. 22800 
 # Ensenada B.C.
 
 
-Cerveza Frontera   # en Tijuana
-   .. www.cervezafrontera.com.mx
+[frontera]
+  Cerveza Frontera   # en Tijuana
+  www.cervezafrontera.com.mx
 
 # Blvd. Insurgentes no. 16174 Bodega A-3
 # Plaza de Abastos Los Álamos Fracc. Los Alamos Tijuana, B.C. C.P. 22540
@@ -48,11 +54,11 @@ Cerveza Frontera   # en Tijuana
 
 
 
+[calafia]
+  Cervecería Calafia   # en Tijuana
+  Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
 
-Cervecería Calafia   # en Tijuana
-  .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
-
-Cervecería Kudos   # en Tijuana
-  .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
-
+[kudos]
+  Cervecería Kudos   # en Tijuana
+  Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
 

@@ -1,10 +1,8 @@
 #########################
 # Baja California, B.C.
 
-
---------------------------------------------------------
+_____________________________________________________
 -  T.J. Beer|Consorcio Cervecero de Baja California
---------------------------------------------------------
 
 Tijuana Light, 3.5%, 8°, pale_lager|lager|lite
 Tijuana Rosarito Beach, 3.8%, 8.6°,  lager
@@ -18,11 +16,8 @@ Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock
 # http://www.tjbeer.com/cervezas.html
 
 
-
-
--------------------------------------------------------
+_____________________________________________
 -  Cervecería Mexicali|Cervecería Mexicana
--------------------------------------------------------
 
 Mexicali Pale Lager, pale_lager|lager
 Mexicali Special Dark, american_dark_lager
@@ -34,10 +29,8 @@ Trader José Dark Premium Lager,
 # http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
 
 
-
----------------------------------------------
+_________________________
 -  Cucapá Brewing Co
----------------------------------------------
 
 Cucapá Clásica, blonde_ale|golden_ale   # ?? check is lager not ale ??
 Cucapa Light,  pale_lager
@@ -64,9 +57,8 @@ Cucapá Imperial Stout      # exists ???
 # Imperio/ Red Ale
 
 
--------------------------------------------
+_________________________________________
 -  Cervecería Rámuri   #  en Tijuana
---------------------------------------------
 
 Batari Chónami,  brown_ale                 # Cerveza Obscura con un toque de piloncillo
 Batari Turio ari biche Amoque, weizen   # Cerveza de trigo y miel con chile chipotle seco
@@ -75,18 +67,15 @@ Batari Choracami, ipa          # India Pale Ale
 Lágrimas Negras, stout    # imperial (chocolaty oatmeal) stout; >10% Alc. Vol.
 Bucéfalo, imperial_stout
 
-
---------------------------------------
+___________________________
 -  Ensenada Microbrewery
---------------------------------------
 
 Ensenada Sweet Stout
 Ensenada Pale Ale
 
 
------------------------------------------
+______________________________________
 -  Canneria Cerveza   # en Ensenada
-----------------------------------------
 
 Canneria Alt Bier
 Canneria Stout      # (Breakfast)
@@ -114,32 +103,24 @@ Canneria Cherry Lambic
 # Palida Alida: American Pale Ale
 # La Bombera: American India Brown Ale
 
-
-
----------------------------------
+_______________________
 - Cerveza Frontera
----------------------------------
 
 # Indian Pale Ale
 # Brown Ale
 # Stout
 # Red Copper Ale
 
-
-
----------------------------------------------
+________________________________________
 -  Cervecería Calafia   # en Tijuana
----------------------------------------------
 
 Calafia Golden Ale
 Calafia Red Ale
 Calafia Pale Ale
 Calafia IPA
 
-
--------------------------------------------
+______________________________________
 -  Cervecería Kudos   # en Tijuana
--------------------------------------------
 
 Kudos Strawberry Wheat
 Kudos Hefeweizen

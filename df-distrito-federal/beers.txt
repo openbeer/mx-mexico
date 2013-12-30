@@ -2,9 +2,8 @@
 # Distrito Federal, D.F.
 
 
----------------------------------------------------
+____________________________________
 - Cervecería Primus|Andreu Primus
----------------------------------------------------
 
 Tempus Dorada,       4.3 %,  golden_ale|ale
 Tempus Doble Malta,  7 %,    imperial_altbier|ale
@@ -16,26 +15,21 @@ Tempus Reserva Especial,     scotch_ale
 # Tempus Clásica  ??
 
 
-----------------------------------
+________________________________
 - Cervecería Pública Condesa
------------------------------------
 
 Poe Brown Ale, 6.2%,   brown_ale
 #  Rulfo Pale Ale    -- ??
 
-----------------------------------
+____________________________________
 - Microcerveceria La Chingoneria
-----------------------------------
 
 Chekate Esta,   pilsner
 Házmela Rusa,   mexican_imperial_stout
 Amargator IPA,  double_ipa|imperial_ipa
 
-
-
----------------------------------
+____________________________
 - Cervecería Alebrije
---------------------------------
 
 Imperial Stout
 Dark IPA
@@ -48,9 +42,8 @@ Kölsch
 Dort Honey
 
 
------------------------------------------------------
+__________________________________________________
 - Beer Factory|Cervecería Santa Fe Beer Factory
------------------------------------------------------
 
 Mediterránea,  light_ale
 Coronel,       pilsner
@@ -59,7 +52,4 @@ Coyote,        pale_ale
 Luna Llena,    irish_stout
 
  
-
-
-
 
