@@ -103,6 +103,18 @@ Canneria Cherry Lambic
 # Uh lala Saison
 # Sporter
 
+# -- Tienen 12:
+# Sporter: Brown Porter;
+# Oatmeal Stout;
+# Multiorgasmic Fuffylicious: Sweet Fruit Ale;
+# Xplosive Cherry: Sour de cereza;
+# Sweet Cherry: Sour dulce de cereza;
+# La IPA del Lic: American IPA;
+# La de John con Manzanita; American Amber Ale con Madera de Manzanita;
+# Palida Alida: American Pale Ale
+# La Bombera: American India Brown Ale
+
+
 
 ---------------------------------
 - Cerveza Frontera

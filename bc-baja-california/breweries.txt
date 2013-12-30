@@ -31,7 +31,7 @@ ramuri, Cervecería Rámuri   #  en Tijuana
 
 ensenada, Ensenada Microbrewery
 
-canneria, Canneria Cerveza   # en Ensenada
+canneria, Canneria Cerveza, 2010    # en Ensenada
   .. www.canneriacerveza.com.mx
 
 # Blvd. Costero no. 656 int. 

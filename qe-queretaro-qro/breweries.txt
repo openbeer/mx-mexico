@@ -12,7 +12,7 @@ amalias, Cervecería Amalias
 # San José Itho, Amealco, Qro.
 
 
-josefa, Cervecería Josefa
+josefa, Cervecería Josefa, 2011
   .. www.cerveceriajosefa.com
 
 # Tizoc 7 Col. Cumbres Conin, 

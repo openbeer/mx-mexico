@@ -4,7 +4,8 @@
 # todo: organize by state / estado
 
 
-lalegendaria, Microcerveceria La Legendaria   # en San Luis Potosi
+lalegendaria, Microcervecería La Legendaria, 2010     # en San Luis Potosi
+
 
 
 Cervecera Mexicana  # en Guanajuato
