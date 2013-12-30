@@ -19,3 +19,11 @@ Hidalgo, stout
 Catrina,  irish_red_ale
 Jaguar,   pale_ale
 
+
+---------------------------------
+- Cerveza Benévolo
+------------------------------
+
+# Face weizenbock
+# Beirosa Gruit
+# Boyka Spicy

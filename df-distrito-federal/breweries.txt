@@ -2,7 +2,7 @@
 # Distrito Federal, D.F.
 
 
-primus, Cervecería Primus|Andreu Primus
+primus, Cervecería Primus|Andreu Primus, 2007
  .. Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal
  .. www.primus.com.mx
  .. twitter.com/PrimusBreweryMX
@@ -17,6 +17,14 @@ condesa, Cervecería Pública Condesa, 2009
 lachingoneria, Microcerveceria La Chingoneria
   .. www.lachingoneria.com.mx
 
+# Asturias #1 esq. con Obrero Mundial 
+# Colonia Álamos, Delegación Benito Juárez
+# C.P. 03400 México D.F
+
+
+
+alebrije, Cervecería Alebrije|Microcervecera Azteca, 2004
+  .. cerveceriaalebrije.com
 
 
 

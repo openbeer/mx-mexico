@@ -12,10 +12,11 @@ Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner
 Tijuana Morena,  4.8%, 11.5°,  schwartzbier
 Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock
 
-Tijuana Brava, dunkler_bock         # still exist or available ???
-Tijuana Bronca, german_pilsener     # still exist or available ???
+# Tijuana Brava, dunkler_bock         # - Munchner Dunkel ? still exist or available ???
+# Tijuana Bronca Güera, german_pilsener     # still exist or available - same as Guera ???
 
 # http://www.tjbeer.com/cervezas.html
+
 
 
 
@@ -52,6 +53,16 @@ Cucapá Imperial Stout      # exists ???
 # http://www.cucapa.com/esp/pages/beers.php
 # http://en.wikipedia.org/wiki/Cucapá_Beer
 
+# -- Honey/ Amber Ale
+# La Migra/ Imperial Stout
+# Runaway/ Ipa
+# Lowrider/ Double Rye
+# Green Card/ Barley Wine
+# Tequila/ Barrel Aged Ale
+# La Migra Winter/ Imperial Stout
+# Baja Buggy/ Kolsch Style
+# Imperio/ Red Ale
+
 
 -------------------------------------------
 -  Cervecería Rámuri   #  en Tijuana
@@ -83,6 +94,24 @@ Canneria Stout      # (Breakfast)
 Canneria Lager Americana
 Canneria Cherry Lambic
 
+# Palida Alida
+# La Bombera
+# Wicked Summer Ales
+# John con manzanita
+# Miltiorgasmic Fuffylicius
+# Loreto with love
+# Uh lala Saison
+# Sporter
+
+
+---------------------------------
+- Cerveza Frontera
+---------------------------------
+
+# Indian Pale Ale
+# Brown Ale
+# Stout
+# Red Copper Ale
 
 
 

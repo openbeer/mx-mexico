@@ -17,16 +17,34 @@ cucapa, Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
   .. www.cucapa.com
   .. Mexicali | Baja California
 
+# Blvd. López Mateos 2301 
+# Col. Sánchez Taboada,
+# Mexicali, B.C.
+
 # en.wikipedia.org/wiki/Cervecería_de_Baja_California  (former name of brewpub)
 
 
 
-# todo: check:  rámuri or ráramuri ??
-raramuri, Cervecería Raramuri   #  en Tijuana
+ramuri, Cervecería Rámuri   #  en Tijuana
+  .. www.cervezaramuri.com
+
 
 ensenada, Ensenada Microbrewery
 
 canneria, Canneria Cerveza   # en Ensenada
+  .. www.canneriacerveza.com.mx
+
+# Blvd. Costero no. 656 int. 
+# H-8 Zona Centro C.P. 22800 
+# Ensenada B.C.
+
+
+Cerveza Frontera   # en Tijuana
+   .. www.cervezafrontera.com.mx
+
+# Blvd. Insurgentes no. 16174 Bodega A-3
+# Plaza de Abastos Los Álamos Fracc. Los Alamos Tijuana, B.C. C.P. 22540
+
 
 
 

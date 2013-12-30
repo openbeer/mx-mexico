@@ -8,6 +8,11 @@ cosaco, Cervecería Cosaco   # en Hidalgo
 
 
 hacienda, Cervecería Hacienda
+  .. www.cerveceriahacienda.com
 # en municipio de Zempoala, Hidalgo (veinte minutos de Pachuca)
 # En la Hacienda San Juan Pueblilla
+
+
+benevolo, Cerveza Benévolo    # Pachuca, Hidalgo
+  .. www.cervezabenevolo.com.mx
 

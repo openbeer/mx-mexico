@@ -20,6 +20,61 @@ Potro
 Horus
 
 
+----------------------------
+- Cervecería Amalias
+---------------------------
+
+Amalias Ambar      # Mexican Pale Ale
+Amalias Tezontle   # Mexican Red Ale
+Amalias Obsidiana
+
+
+---------------------------
+- Cerveza Criolla    # en Veracruz
+---------------------------
+
+# Pilsen
+# Vienna
+# Bock
+
+
+--------------------------------------
+- Cervecería Josefa     # en Querétaro
+--------------------------------------
+
+# Porter
+# Ambar
+# Trigo
+
+
+------------------------------------
+- Cervecería Querétaro
+-----------------------------------
+
+# Ambar Ale
+
+
+------------------------------------
+- Cerveza Afromestizo
+-----------------------------------
+
+Don Hilaro    # Tropical Amber Ale
+Doña Amalia   # Pacific Pale Ale
+Mama Grande   # Mulato Chocolate Porter
+Doña Amalia Cardamomo  # (medicinales)  -- beer?
+Doña Amalia Jamaica    #  (medicinales)  -- beer?
+
+
+------------------------------------
+- Cerveza Dos Palomas
+-------------------------------------
+
+Dos Palomas Bitter
+Dos Palomas Ginger Ale
+Dos Palomas Red Ale
+Dos Palomas Porter
+
+
 -------------------------------
 -  Cerveceria Sileno    # still in operation - does it exist ???
 ---------------------------------

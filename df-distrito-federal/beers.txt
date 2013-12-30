@@ -3,7 +3,7 @@
 
 
 ---------------------------------------------------
--- Cervecería Primus|Andreu Primus
+- Cervecería Primus|Andreu Primus
 ---------------------------------------------------
 
 Tempus Dorada,       4.3 %,  golden_ale|ale
@@ -17,24 +17,39 @@ Tempus Reserva Especial,     scotch_ale
 
 
 ----------------------------------
--- Cervecería Pública Condesa
+- Cervecería Pública Condesa
 -----------------------------------
 
 Poe Brown Ale, 6.2%,   brown_ale
-
+#  Rulfo Pale Ale    -- ??
 
 ----------------------------------
--- Microcerveceria La Chingoneria
+- Microcerveceria La Chingoneria
 ----------------------------------
 
 Chekate Esta,   pilsner
 Házmela Rusa,   mexican_imperial_stout
-Amargator IPA,  double_ipa
+Amargator IPA,  double_ipa|imperial_ipa
 
+
+
+---------------------------------
+- Cervecería Alebrije
+--------------------------------
+
+Imperial Stout
+Dark IPA
+Sweet Stout
+Irish Red
+IPA
+Mulli Stout
+Agave Red Ale
+Kölsch
+Dort Honey
 
 
 -----------------------------------------------------
--- Beer Factory|Cervecería Santa Fe Beer Factory
+- Beer Factory|Cervecería Santa Fe Beer Factory
 -----------------------------------------------------
 
 Mediterránea,  light_ale
