@@ -1,0 +1,13 @@
+##########################
+# Hidalgo, Hgo.
+
+
+
+cosaco, Cervecería Cosaco   # en Hidalgo
+  .. www.cervezacosaco.com
+
+
+hacienda, Cervecería Hacienda
+# en municipio de Zempoala, Hidalgo (veinte minutos de Pachuca)
+# En la Hacienda San Juan Pueblilla
+

@@ -7,9 +7,9 @@
 ---------------------------------------------------
 
 Tempus Dorada,       4.3 %,  golden_ale|ale
-Tempus Doble Malta,  7 %,    altbier_imperial|ale
+Tempus Doble Malta,  7 %,    imperial_altbier|ale
 Tempus Alt,          5.2 %,  altbier|ale
-Tempus Reserva Especial,     scottish_ale
+Tempus Reserva Especial,     scotch_ale
 
 # Tempus Clasica Dorada     ??
 # Tempus Clasica (AltBier)  ??

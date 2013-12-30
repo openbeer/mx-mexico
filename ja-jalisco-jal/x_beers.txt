@@ -1,0 +1,19 @@
+############################################
+# Jalisco, Jal.   - out of business; no longer in operation, historical
+
+----------------------------
+-  Beer Lounge
+-----------------------------
+
+Magna IPA
+Magna Porter
+Magna Stout
+Magna Witbier   # Belgian Withe Ale
+Magna Christmas Ale
+Magna Brown Ale
+
+# Pale Ale
+# Strong Ale
+# Belgian Abbey Ale
+# Cerveza de Jamaica
+

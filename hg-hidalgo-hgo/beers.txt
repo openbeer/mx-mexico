@@ -1,0 +1,21 @@
+##########################
+# Hidalgo, Hgo.
+
+
+-------------------------------
+-  Cervecería Cosaco
+-------------------------------
+
+Cosaco Negra
+Cosaco Roja      #  tipo belga la única en México por su color rojo rubí
+Cosaco Guera
+
+
+--------------------------------
+-  Cervecería Hacienda
+--------------------------------
+
+Hidalgo, stout
+Catrina,  irish_red_ale
+Jaguar,   pale_ale
+

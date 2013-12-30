@@ -7,7 +7,7 @@
 ----------------------------------
 
 Regio
-Regio Light
+Regio Light,    lager|lite
 Obispado
 La Silla
 El Fraile

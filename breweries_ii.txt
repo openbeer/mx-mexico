@@ -4,17 +4,6 @@
 # todo: organize by state / estado
 
 
-
-cosaco, Cervecería Cosaco   # en Hidalgo
-  .. www.cervezacosaco.com
-
-
-hacienda, Cervecería Hacienda
-# en municipio de Zempoala, Hidalgo (veinte minutos de Pachuca)
-# En la Hacienda San Juan Pueblilla
-
-
-
 lalegendaria, Microcerveceria La Legendaria   # en San Luis Potosi
 
 
@@ -26,8 +15,6 @@ Cervecería La Brü   # en  Morelia, Michoacan
 Cerveceria Queretaro
 
 Cerveceria La Antigua   # en Jalapa Veracruz
-
-Cervecería Baja Brewing Co|Baja Brewing|Cervecería de Los Cabos San Lucas    # en Los Cabos San Lucas
 
 
 Cerveceria Sileno     # still in operation - exists  ???

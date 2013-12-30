@@ -6,13 +6,14 @@
 -  T.J. Beer|Consorcio Cervecero de Baja California
 --------------------------------------------------------
 
-Tijuana Rosarito Beach
-Tijuana Güera,  bohemian_pilsner|czech_pilsner
-Tijuana Light,  pale_lager
-Tijuana Morena, vienna
-Tijuana Bufadora,  doppelbock|maibock
-Tijuana Brava, dunkler_bock         # ???
-Tijuana Bronca, german_pilsener     # ???
+Tijuana Light, 3.5%, 8°, pale_lager|lager|lite
+Tijuana Rosarito Beach, 3.8%, 8.6°,  lager
+Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner
+Tijuana Morena,  4.8%, 11.5°,  schwartzbier
+Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock
+
+Tijuana Brava, dunkler_bock         # still exist or available ???
+Tijuana Bronca, german_pilsener     # still exist or available ???
 
 # http://www.tjbeer.com/cervezas.html
 
@@ -24,7 +25,7 @@ Tijuana Bronca, german_pilsener     # ???
 
 Mexicali Pale Lager, pale_lager|lager
 Mexicali Special Dark, american_dark_lager
-Red Pig Mexican Ale|Red Pig Ale, amber_ale|ale
+Red Pig Mexican Ale|Red Pig Ale, amber_ale|red_ale|ale
 Chili Beer
 Trader José Premium Lager
 Trader José Dark Premium Lager,
@@ -37,10 +38,10 @@ Trader José Dark Premium Lager,
 -  Cucapá Brewing Co
 ---------------------------------------------
 
-Cucapá Clásica, blonde_ale|golden_ale
+Cucapá Clásica, blonde_ale|golden_ale   # ?? check is lager not ale ??
 Cucapa Light,  pale_lager
 Cucapá Honey,   blonde_ale|golden_ale    # Contiene mile de abeja
-Cucapá Trigueña,  wheat_ale
+Cucapá Trigueña,  weizen|wheat_ale
 Cucapá Obscura,  brown_ale
 Cucapá Chupacabras, pale_ale
 Cucapá Barley Wine, barley_wine
@@ -56,8 +57,8 @@ Cucapá Imperial Stout      # exists ???
 -  Cervecería Rámuri   #  en Tijuana
 --------------------------------------------
 
-Batari Chonami                 # Cerveza Obscura con un toque de piloncillo
-Batari Turio ari biche Amoque  # Cerveza de trigo y miel con chile chipotle seco
+Batari Chónami,  brown_ale                 # Cerveza Obscura con un toque de piloncillo
+Batari Turio ari biche Amoque, weizen   # Cerveza de trigo y miel con chile chipotle seco
 Batari Choracami, ipa          # India Pale Ale
 100 Dias
 Lágrimas Negras, stout    # imperial (chocolaty oatmeal) stout; >10% Alc. Vol.

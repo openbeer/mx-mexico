@@ -8,25 +8,23 @@
 - Grupo Modelo
 -----------------------------
 
-Barrilito, 3.6%, by:gmodelo, pale_lager  # tipo pilsner
+Barrilito, 3.6%,  pale_lager      # tipo pilsner
 
-Corona|Corona Extra, 4.5%, by:gmodelo,  lager|pale_lager
-Corona Light, by:gmodelo, lite
-
-Modelo Especial, 4.5%, by:gmodelo   # desde 1925
-Modelo Light, by:gmodelo, lite
-
-### add modelo clasico - exists ??
-### add modelo obscura - exists ??
+Corona|Corona Extra, 4.5%,  lager|pale_lager
+Corona Light,  lite|lager
 
 
-Negra Modelo, 5.3%, by:gmodelo   # tipo munich    # 1925
+Modelo Especial, 4.5%, pale_lager   # desde 1925
+Modelo Light,  lite|lager
 
-Tropical Light, by:gmodelo, lite      # nació en 2007
 
-Victoria, 4%, by:gmodelo, ME, city:toluca, vienna_lager   #  Compañía Cervecera Toluca y México, que fue adquirida por Grupo Modelo en 1935.
+Negra Modelo, 5.3%     # tipo munich  or tipo vienna ?   # 1925
 
-Estrella, by:gmodelo, JA, city:guadalajara      # tipo pilsner - Cervecería Estrella (hoy Cervecería Modelo de Guadalajara
+Tropical Light,  lite      # nació en 2007
+
+Victoria, 4%,  ME, city:toluca, vienna_lager   #  Compañía Cervecera Toluca y México, que fue adquirida por Grupo Modelo en 1935.
+
+Estrella, JA, city:guadalajara, pale_lager     # tipo pilsner - Cervecería Estrella (hoy Cervecería Modelo de Guadalajara
 
 
 --------------------------------------
@@ -53,6 +51,6 @@ León, 4.5%,  by:gmodelo, munich_dunkel_lager    # tipo munich  - desde 1900  --
 - Pacifico (Grupo Modelo)
 ----------------------------------------
 
-Pacifico, 4.5%, by:pacifico  # Cervecería del Pacífico en Mazatlán, Sinaloa.
-Pacifico Light, by:pacifico, lite
+Pacifico|Pacifico Clara, 4.5%, by:pacifico, pale_lager   # Cervecería del Pacífico en Mazatlán, Sinaloa.
+Pacifico Light, by:pacifico, lite|lager
 

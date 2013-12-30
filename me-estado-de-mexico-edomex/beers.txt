@@ -6,16 +6,17 @@
 -  Cervecería Calavera|Gourment Calavera
 -------------------------------------------
 
-Calavera Witbier
-Calavera American Pale Ale
-Calavera Smoky Scotish Ale 80/-
+Calavera Witbier,     weizen
+Calavera American Pale Ale,     pale_ale
+Calavera Smoky Scotish Ale 80/-,  scotch_ale
 Calavera Oktoberfest
-Calavera Mexican Imperial Stout
-Calavera Dubbel (de Abadia)
-Calavera Tripel (de Abadia)
-Calavera Barley Wine
-Calavera Schwars    # ???
+Calavera Mexican Imperial Stout,  stout
+Calavera Dubbel (de Abadia), abbey|ale
+Calavera Tripel (de Abadia), abbey|ale
+Calavera Barley Wine,  barleywine
+Calavera Schwarz,    schwartzbier
 Calavera Lovecraft  # ???
+Calavera Project X, brown_ale
 
 
 -------------------------------------

@@ -21,10 +21,3 @@ Cervecería Ale & Ale  # en Guadalajara
 # está en proceso de expansión de sus instalaciones,
 # con intenciones de cubrir la demanda a nivel local y regional en el 2013.
 
-
-
-###################
-# Brewpubs
-
-Beer Lounge   # en Tlaquepaque / Guadalajara
-  .. www.beerlounge.com.mx (under construction!)
