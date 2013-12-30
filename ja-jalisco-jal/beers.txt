@@ -1,16 +1,45 @@
+#########################
+# Jalisco, Jal.
 
 
-Minerva Colonial estilo Kolsch
-Minerva Viena estilo Vienna,
-Minerva Stout Imperial estilo Sweet Stout,
-Minerva Pale Ale estilo Middle Pale Ale,
-Minerva ITA estilo Imperial Tequila Ale,
-Minerva Diosa Blanca estilo Blanche Biere,
-Minerva 8:50 estilo India Pale Ale,
-Minerva Lupe Reyes estilo Dunkel Dopel Bock y
-Malverde estilo Pilsner Continental.
+-------------------------------------
+-  Cervecería Minerva
+-------------------------------------
 
-Cuenta con 4 tipos de cerveza embotellada:
-Colonial, Viena, Pale Ale y Stout.
-Esta cervecería también produce la cerveza Malverde, famosa por su alusión al polémico Santo de los delincuentes y narcotraficantes.
+Minerva Colonial,  koelsch   # fix: koelsch w/ umlaut
+Minerva Viena,     vienna
+Minerva Imperial Stout,  sweet_stout
+Minerva Pale Ale,   middle_pale_ale
+Minerva ITA (Imperial Tequila Ale), imperial_tequila_ale
+Minerva Diosa Blanca,  blanche_biere
+Minerva 8:50, ipa # India Pale Ale,
+Minerva Lupe Reyes, dunkel|doppelbock  #  estilo Dunkel Dopel Bock
+Malverde, pilsner    # Pilsner Continental
+
+Minerva Rila, seasonal   # listed in pocket beer book 2014
+
+# Esta cervecería también produce la cerveza Malverde,
+# famosa por su alusión al polémico Santo de los delincuentes y narcotraficantes.
+
+# http://www.cervezaminerva.mx/cervezas_minerva.html
+
+
+
+----------------------------
+-  Beer Lounge
+-----------------------------
+
+Magna IPA
+Magna Porter
+Magna Stout
+Magna Witbier   # Belgian Withe Ale
+Magna Christmas Ale
+Magna Brown Ale
+
+# Pale Ale
+# Strong Ale
+# Belgian Abbey Ale
+# Cerveza de Jamaica
+
+
 

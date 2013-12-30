@@ -5,73 +5,36 @@
 mexicali, Cervecería Mexicali|Cervecería Mexicana
   .. Ensenada | Baja California
   .. www.mexicalibeer.com
-
+  
 # bought by Coors
-
-# http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
-
-
-
 
 
 tjbeer, Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
   .. www.tjbeer.com
 
-# http://www.tjbeer.com/cervezas.html
 
-
-
-cucapa, Cucapá Brewing Co|Cervecería de Baja_California, 2002
+cucapa, Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
   .. www.cucapa.com
-  .. Mexicali   ??
-#Cerveza Cucapá, Baja California
+  .. Mexicali | Baja California
 
-# http://en.wikipedia.org/wiki/Cucapá_Beer
-# http://en.wikipedia.org/wiki/Cervecería_de_Baja_California  (former name of brewpub)
+# en.wikipedia.org/wiki/Cervecería_de_Baja_California  (former name of brewpub)
 
 
-# http://www.cucapa.com/esp/pages/beers.php
 
-
+# todo: check:  rámuri or ráramuri ??
 raramuri, Cervecería Raramuri   #  en Tijuana
 
-Sus cervezas son:
-Batari Chonami (Cerveza Obscura con un toque de piloncillo)
-Batari Turio ari biche Amoque (Cerveza de trigo y miel con chile chipotle seco)
-Indian Pale Ale (Batari choracami)
-"100 Dias"
-"Lagrimas Negras" 
+ensenada, Ensenada Microbrewery
+
+canneria, Canneria Cerveza   # en Ensenada
+
+
 
 
 Cervecería Calafia   # en Tijuana
   .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
-  
-- Golden Ale
-- Red Ale
-- Pale Ale
-- IPA
 
 Cervecería Kudos   # en Tijuana
   .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
-- Strawberry Wheat
-- Hefeweizen
-- Mild Brown
-- Indian Pale Ale
 
-
-
-
-Ensenada Microbrewery
-
-- Ensenada Sweet Stout
-- Ensenada Pale Ale
-
-Canneria Cerveza   # en Ensenada
-
-sus cervezas son:
-- Alt Bier
-- Stout (Breakfast)
-- Algo muy parecido al tipo Vienna
-- Lager Americana
-- Cherry Lambic
 

@@ -1,0 +1,14 @@
+##########################
+# Oaxaca, Oax.
+
+
+-------------------------------
+-  Cervecería Camarada         
+-------------------------------
+
+Camarada Schwarzbier
+Camarada Weissbier
+Santería,  sweet_corn_beer
+Camarada Red Ale,  seasonal    # infused with rosita de cacao; cervezas de temporada y de producción limitada
+Camarada Pale      seasonal    # cervezas de temporada y de producción limitada
+

@@ -5,15 +5,13 @@
 bayernbrau, Cervecería Bayernbrau de México, 2002(?)
   ..   www.bayernbrau.com|www.cervezaweissbier.mx
   
-Puebla, Pue.
-Ricardo Flores Magón No. 98 Nave 2-A Parque Industrial Sn.  Jerónimo Caleras Puebla, Pue
-Ricardo Flores Magón No. 98 - Nave 2A; Parque Industrial San Jerónimo Caleras - C.P. 72100 Puebla
-
-# http://www.cervezaweissbier.mx/portfolio.html
+# Puebla, Pue.
+# Ricardo Flores Magón No. 98 Nave 2-A Parque Industrial Sn.  Jerónimo Caleras Puebla, Pue
+# Ricardo Flores Magón No. 98 - Nave 2A; Parque Industrial San Jerónimo Caleras - C.P. 72100 Puebla
 
 
-Cervecería Cholula
+cholula, Cervecería Cholula   # en Cholula
   .. www.cerveceriacholula.com
-  Cholula, México
+
 
 

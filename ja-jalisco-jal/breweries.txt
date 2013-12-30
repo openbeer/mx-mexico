@@ -5,23 +5,8 @@
 minerva, Cervecería Minerva, 2002
   .. www.cervezaminerva.mx
 
-PERIFÉRICO SUR 4250, INTERIOR A3 COLONIA PERIODISTAS CP 45078
-ZAPOPAN, JALISCO, MÉXICO
-
-# http://www.cervezaminerva.mx/cervezas_minerva.html
-
-elaboran 9 estilos de cerveza:
-
-Minerva Colonial estilo Kolch,
-Minerva Viena estilo Vienna,
-Minerva Stout Imperial estilo Sweet Stout,
-Minerva Pale Ale estilo Middle Pale Ale,
-Minerva ITA estilo Imperial Tequila Ale,
-Minerva Diosa Blanca estilo Blanche Biere,
-Minerva 8:50 estilo India Pale Ale,
-Minerva Lupe Reyes estilo Dunkel Dopel Bock y
-Malverde estilo Pilsner Continental.
-
+# PERIFÉRICO SUR 4250, INTERIOR A3 COLONIA PERIODISTAS CP 45078
+# ZAPOPAN, JALISCO, MÉXICO
 
 
 revolucion, Cervecería Revolucion    # en Guadalajara
@@ -30,7 +15,8 @@ revolucion, Cervecería Revolucion    # en Guadalajara
 ######
 
 Cervecería Ale & Ale  # en Guadalajara
-produce la cerveza Santo Remedio desde mediados de 2012.
+
+# produce la cerveza Santo Remedio desde mediados de 2012.
 # Esta cerveza, producida en pequeña escala, ha tenido una buena aceptación en el mercado local;
 # está en proceso de expansión de sus instalaciones,
 # con intenciones de cubrir la demanda a nivel local y regional en el 2013.
@@ -40,17 +26,5 @@ produce la cerveza Santo Remedio desde mediados de 2012.
 ###################
 # Brewpubs
 
-Beer Lounge, # en Tlaquepaque / Guadalajara
-.. www.beerlounge.com.mx (under construction!)
-
-
-Magna IPA
-Magna Porter
-Magna Stout
-Maagna Belgian Withe Ale
-Magna Chrismas Ale
-Magna Brown Ale
-
--  Witbier, Pale Ale, Strong Ale, Brown Ale, Porter, Belgian Abbey Ale, Stout, India Pale Ale, Christmas Ale y Cerveza de Jamaica
-
-
+Beer Lounge   # en Tlaquepaque / Guadalajara
+  .. www.beerlounge.com.mx (under construction!)

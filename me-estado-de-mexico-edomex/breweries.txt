@@ -2,34 +2,12 @@
 # Estado de México, Edomex.
 
 
-calavera, Cervecería Calavera     en Tlalnepantla de Baz   (Edomex, Estado de México)
+calavera, Cervecería Calavera|Gourment Calavera   #   en Tlalnepantla de Baz   (Edomex, Estado de México)
   .. calaverabeer.com (Under Construction)
   .. twitter.com/calaverabeer
 
-# -- beers
-# Witbier
-# American Pale Ale
-# Smoky Scotish Ale 80/-
-# Schwars
 
-# American Pale Ale.
-# Witbier(Cerveza Blanca de trigo).
-# Oktoberfest.
-# Scottish Ale.
-# Mexican Imperial Stout.
-# Dubbel de Abadia.
-# Tripel de Abadia.
-# Barley Wine.
-# BeerCentenario.
-
- 8 variedades de cerveza: American Pale Ale,
- Witbier, Oktobeerfest (Märzenbier),
- Smoky Scottish Ale, Mexican Imperial Stout,
- Dubbel, Tripel y Barley Wine.
-
-
-
-jack, Cervecería Jack,  en Tlalnepantla de Baz
+jack, Cervecería Jack   #  en Tlalnepantla de Baz
   ..  cerveceriajack.com  (Under Construction)
   ..  jjack9.wix.com/cerveceriajack
 

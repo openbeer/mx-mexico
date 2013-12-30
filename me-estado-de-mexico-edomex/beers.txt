@@ -1,0 +1,29 @@
+##################################
+# Estado de México, Edomex.
+
+
+-------------------------------------------
+-  Cervecería Calavera|Gourment Calavera
+-------------------------------------------
+
+Calavera Witbier
+Calavera American Pale Ale
+Calavera Smoky Scotish Ale 80/-
+Calavera Oktoberfest
+Calavera Mexican Imperial Stout
+Calavera Dubbel (de Abadia)
+Calavera Tripel (de Abadia)
+Calavera Barley Wine
+Calavera Schwars    # ???
+Calavera Lovecraft  # ???
+
+
+-------------------------------------
+-  Cervecería Jack
+-------------------------------------
+
+Jack Alebrije,  weissbier
+Jack Stout
+Jack Chocolate Sweet Stout
+Jack Clown Smile,   scotch_ale
+
