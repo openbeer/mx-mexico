@@ -1,5 +1,4 @@
-
-##############################################
+#############################################
 # Biggies / Major / Industrial-size
 
 
@@ -20,8 +19,8 @@ cuamoc, Cervecería Cuauhtémoc Moctezuma, 1890, NL, city:monterrey
 
 
 
-# http://es.wikipedia.org/wiki/Cervecería_Cuauhtémoc_Moctezuma
-# http://en.wikipedia.org/wiki/Cuauhtémoc_Moctezuma_Brewery
+# es.wikipedia.org/wiki/Cervecería_Cuauhtémoc_Moctezuma
+# en.wikipedia.org/wiki/Cuauhtémoc_Moctezuma_Brewery
 
 
 # ----------------------------------------------------------
@@ -38,8 +37,8 @@ gmodelo,  Cervecería Modelo / Grupo Modelo, 1922, DF, city:mexico
 #  Cervecería Yucateca, Mérida | Yucatán  - bought in 1979   -- León and Montejo
 
 
-# http://es.wikipedia.org/wiki/Grupo_Modelo
-# http://en.wikipedia.org/wiki/Grupo_Modelo
+# es.wikipedia.org/wiki/Grupo_Modelo
+# en.wikipedia.org/wiki/Grupo_Modelo
 
 pacifico, Cervecería del Pacífico / Grupo Modelo, SI, city:mazatlan
   .. Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000

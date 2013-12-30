@@ -1,3 +1,62 @@
 ########################
-# Cerveza Artesanal /   microcervecerias ??
+# Cerveza Artesanal
+
+-------------------------------
+-  Cervecería Baja Brewing Co|Baja Brewing|Cervecería de Los Cabos San Lucas
+-------------------------------
+
+Cabotella
+Rasberry Lager
+Cactus Wheat
+Peliroja
+Escorpión Negro
+Peyote India Pale Ale
+Oatmeal Stout
+
+
+-------------------------------
+-  Cervecería Cosaco
+-------------------------------
+
+Cosaco Negra
+Cosaco Roja      #  tipo belga la única en México por su color rojo rubí
+Cosaco Guera
+
+
+--------------------------------
+-  Cervecería Hacienda
+--------------------------------
+
+Hidalgo, stout
+Catrina,  irish_red_ale
+Jaguar,   pale_ale
+
+
+----------------------------------
+-  Microcerveceria La Legendaria
+----------------------------------
+
+1810, blonde_ale
+2 de Abril, pale_ale
+Segundo Imperio, porter
+
+
+---------------------------------
+-  Cervecera Mexicana
+---------------------------------
+
+Caballero Águila
+Cheisy
+Potro
+Horus
+
+
+-------------------------------
+-  Cerveceria Sileno    # still in operation - does it exist ???
+---------------------------------
+
+Wiesnbier
+Brown Ale
+Porter
+Trippel
 
