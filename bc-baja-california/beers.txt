@@ -1,8 +1,41 @@
 
+# by  Consorcio Cervecero de Baja California|T.J. Beer
 
-Tijuana Güera
-Tijuana Light
-Tijuana Morena
 Tijuana Rosarito Beach
+Tijuana Güera,  bohemian_pilsener
+Tijuana Light,  pale_lager
+Tijuana Morena, vienna
+Tijuana Brava, dunkler_bock
+Tijuana Bronca, german_pilsener
+Tijuana Bufadora,  doppelbock
+
+
+
+# by Cervecería Mexicali|Cervecería Mexicana
+
+Cerveza Mexicali, pale_lager|lager
+Cerveza Mexicali Special (Dark), american_dark_lager
+Red Pig Mexican Ale, amber_ale|ale
+
+
+
+# by Cucapá Brewing Co
+
+Cucapá Centenario Barley Wine
+Cucapá Chupacabras, pale_ale
+Cucapa Clasica Golden Ale/Blond Ale
+Cucapá Honey Golden Ale/Blond Ale    # Contiene mile de abeja
+Cucapá Imperial Stout
+Cucapa Light,  pale_lager
+Cucapa Obscura,  brown_ale
+Cucapá Trigueña Wheat Ale     # Cerveza de Trigo
+
+# Cucapá Clásica (Classic, Blonde Ale style)
+# Cucapá Light (Low Calories Ale style)
+# Cucapá Honey (Amber Ale style)
+# Cucapá Trigueña (Goldie/Brunette, Wheat Ale style)
+# Cucapá Obscura (Dark, American Brown Ale style)
+# Cucapá Chupacabras (By the Chupacabra, the goat sucker, a famous cryptid being that appeared in Latin America in the early 90's, Pale Ale style)
+# Cucapá Barleywine
 
 

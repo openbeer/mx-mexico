@@ -2,10 +2,16 @@
 # Cerveceria Artesanal, Baja California, B.C.
 
 
-Cervecería Mexicali
+mexicali, Cervecería Mexicali|Cervecería Mexicana
+  .. Ensenada | Baja California
   .. www.mexicalibeer.com
 
+# bought by Coors
+
 # http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
+
+
+
 
 
 tjbeer, Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
@@ -15,9 +21,41 @@ tjbeer, Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
 
 
 
-Cucapá Brewing Co, 2002
+cucapa, Cucapá Brewing Co|Cervecería de Baja_California, 2002
   .. www.cucapa.com
+  .. Mexicali   ??
 #Cerveza Cucapá, Baja California
 
+# http://en.wikipedia.org/wiki/Cucapá_Beer
+# http://en.wikipedia.org/wiki/Cervecería_de_Baja_California  (former name of brewpub)
+
+
 # http://www.cucapa.com/esp/pages/beers.php
+
+
+raramuri, Cervecería Raramuri   #  en Tijuana
+
+Sus cervezas son:
+Batari Chonami (Cerveza Obscura con un toque de piloncillo)
+Batari Turio ari biche Amoque (Cerveza de trigo y miel con chile chipotle seco)
+Indian Pale Ale (Batari choracami)
+"100 Dias"
+"Lagrimas Negras" 
+
+
+
+
+Ensenada Microbrewery
+
+- Ensenada Sweet Stout
+- Ensenada Pale Ale
+
+Canneria Cerveza   # en Ensenada
+
+sus cervezas son:
+- Alt Bier
+- Stout (Breakfast)
+- Algo muy parecido al tipo Vienna
+- Lager Americana
+- Cherry Lambic
 

@@ -23,3 +23,25 @@ Minerva Lupe Reyes estilo Dunkel Dopel Bock y
 Malverde estilo Pilsner Continental.
 
 
+
+revolucion, Cervecería Revolucion    # en Guadalajara
+
+
+
+
+
+###################
+# Brewpubs
+
+Beer Lounge, Guadalajara
+.. www.beerlounge.com.mx (under construction!)
+
+
+Magna IPA
+Magna Porter
+Magna Stout
+Maagna Belgian Withe Ale
+Magna Chrismas Ale
+Magna Brown Ale
+
+

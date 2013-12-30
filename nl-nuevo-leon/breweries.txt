@@ -1,3 +1,19 @@
+##########################
+#  Nuevo León, N.L.
+
+
+Especialidades Cerveceras    #  en Monterrey
+ 
+# Las Cervezas que manejan son:
+
+Casta Bruna Pale Ale
+Casta Dorada  Golden Ale/Blond Ale
+Casta Milenia Belgian Strong Ale
+Casta Morena Brown Ale
+Casta Triguera Wheat Ale
+Casta Unica Belgian Strong Ale 
+
+
 
 
 
@@ -6,6 +22,8 @@
 
 Sierra Madre Brewing Co., 1996
  .. www.smbc.com.mx
+ .. Monterrey
 
-Monterrey, NL ??
+# Regio   - beers
+
 

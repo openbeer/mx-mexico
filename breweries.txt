@@ -12,6 +12,14 @@ cuamoc, Cervecería Cuauhtémoc Moctezuma, 1890, NL, city:monterrey
   .. Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442
   .. heineken
 
+# merger of/bought by Cuauhtémoc
+# - Cervecería Cuauhtémoc, 1890, Monterrey
+# - Cervecería Moctezuma, 1893,  Orizaba | Veracruz
+# bought in 1955 by Cuauhtémoc
+# -  Cervecería Tecate,  Tecate | Baja California
+
+
+
 # http://es.wikipedia.org/wiki/Cervecería_Cuauhtémoc_Moctezuma
 # http://en.wikipedia.org/wiki/Cuauhtémoc_Moctezuma_Brewery
 
@@ -23,6 +31,12 @@ cuamoc, Cervecería Cuauhtémoc Moctezuma, 1890, NL, city:monterrey
 gmodelo,  Cervecería Modelo / Grupo Modelo, 1922, DF, city:mexico
   .. www.gmodelo.com.mx
   .. Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320
+
+# bought by Modelo
+#  Cervecería Estrella, Guadalajara -  bought in 1954        -- Estrella
+#  Cervecería Toluca y México, 1865  - bought in 1935        -- Victoria
+#  Cervecería Yucateca, Mérida | Yucatán  - bought in 1979   -- León and Montejo
+
 
 # http://es.wikipedia.org/wiki/Grupo_Modelo
 # http://en.wikipedia.org/wiki/Grupo_Modelo

@@ -12,7 +12,15 @@ calavera, Cervecería Calavera     en Tlalnepantla de Baz   (Edomex, Estado de M
 # Smoky Scotish Ale 80/-
 # Schwars
 
-
+# American Pale Ale.
+# Witbier(Cerveza Blanca de trigo).
+# Oktoberfest.
+# Scottish Ale.
+# Mexican Imperial Stout.
+# Dubbel de Abadia.
+# Tripel de Abadia.
+# Barley Wine.
+# BeerCentenario.
 
 
 jack, Cervecería Jack,  en Tlalnepantla de Baz

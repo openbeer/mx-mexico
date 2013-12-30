@@ -11,12 +11,27 @@ primus, Cervecería Primus|Andreu Primus
 
 
 
+Cervecería Pública Condesa, 2009
+
+# -- POE Brown Ale, 6.2 % ALC. VOL.
+
+
+MicroCerveceria La Chingoneria
+  .. www.lachingoneria.com.mx
+
+Házmela Rusa-Stout Imperial Mexicana
+Amargator IPA - IPA Imperial
+Chekate Esta-Pilsner
+
+
+
 
 ################
 # brewpubs
 
-Beer Factory, 1996 (?)
+Beer Factory|Cervecería Santa Fe Beer Factory, 1996 (?)
  .. www.beerfactory.com
+
 
 -- beers
 # Mediterránea (light ale),
@@ -25,8 +40,16 @@ Beer Factory, 1996 (?)
 # Coyote (pale ale)
 # Luna Llena (stout irlandés)
 
+Coronel tipo checa(Pilsener).
+Coyote tipo Ingles(Pale Ale).
+Luna Llena tipo irlandés(stout).
+Santa Fe tipo austriaco.
+
+
 Sucursales
 en el DF: Plaza Cuicuilco, Centro Comercial Santa Fe y Av. Insurgentes Nte No.1812;
 en el Estado de México: Centro Comercial Mundo E y Pabellón Las Torres Megasatélite;
 en Puebla: Centro Comercial Angelópolis.
+
+
 

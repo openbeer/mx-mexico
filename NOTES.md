@@ -30,7 +30,10 @@ http://www.mexicodesconocido.com.mx/cerveza-artesanal-mexico.html
 
 http://beerdepot.com.mx
 
+---------
 
+Cervezas Artesanales Mexicanas
+http://www.cervezacasera.com.mx/index.php?option=com_content&task=view&id=20&Itemid=47
 
 
 ----

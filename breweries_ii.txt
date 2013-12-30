@@ -5,6 +5,71 @@
 
 
 
+Cervecería Cosaco   # en Hidalgo
+  .. www.cervezacosaco.com
+
+# Cosaco Negra
+# Cosaco Roja  tipo belga la única en México por su color rojo rubí.
+# Cosaco Guera
+
+
+
+Cervecería Hacienda
+# en municipio de Zempoala, Hidalgo (veinte minutos de Pachuca)
+# En la Hacienda San Juan Pueblilla
+
+beers:
+Hidalgo(Stout)
+Catrina(Irish Red Ale)
+Jaguar(PaleAle)
+
+
+
+Microcerveceria La Legendaria   # en San Luis Potosi
+
+Las Cervezas que manejan son: 
+ 
+1810(Blonde Ale)
+2 de Abril(Pale Ale)
+Segundo Imperio(Porter)
+
+
+
+
+
+
+Cervecera Mexicana  # en Guanajuato
+
+
+Cervecería La Brü   # en  Morelia, Michoacan
+
+
+Cerveceria Queretaro  # en 
+
+
+Cerveceria la Antigua   # en Jalapa Veracruz
+
+
+
+
+###
+# move to folder baja-california sur ??
+
+Cervecería Baja Brewing Co    # en los Cabos
+
+
+
+Cerveceria Sileno    ???
+
+WIESNBIER
+BROWN ALE
+PORTER
+TRIPPEL 
+
+
+
+
+
 
 
 
