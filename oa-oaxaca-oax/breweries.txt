@@ -1,0 +1,8 @@
+
+Cervecería Camarada, 2009
+-- 4 estilos de cerveza:
+  Camarada Schwarzbier,
+  Camarada Weissbier,
+  Camarada Red Ale y
+  Camarada Pale, siendo éstas dos últimas cervezas de temporada y de producción limitada.
+

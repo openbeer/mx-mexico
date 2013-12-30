@@ -25,5 +25,8 @@ Sierra Madre Brewing Co., 1996
  .. Monterrey
 
 # Regio   - beers
+Regio, Regio Light, Obispado, La Silla, El Fraile, Las Cumbres, Matacanes, Huasteca, Mirador, Huajuco, Olinala, Chipinque Oktoberfest y Navidad.
+
+
 
 

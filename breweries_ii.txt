@@ -39,6 +39,9 @@ Segundo Imperio(Porter)
 
 
 Cervecera Mexicana  # en Guanajuato
+-- Caballero Águila, Cheisy, Potro y Horus
+
+
 
 
 Cervecería La Brü   # en  Morelia, Michoacan
@@ -55,7 +58,10 @@ Cerveceria la Antigua   # en Jalapa Veracruz
 ###
 # move to folder baja-california sur ??
 
-Cervecería Baja Brewing Co    # en los Cabos
+Cervecería Baja Brewing Co|Baja Brewing|Cervecería de Los Cabos San Lucas    # en Los Cabos San Lucas
+
+-- Ofrece Cabotella, Rasberry Lager, Cactus Wheat, Peliroja, Escorpión Negro, Peyote India Pale Ale Y Oatmeal Stout.
+
 
 
 

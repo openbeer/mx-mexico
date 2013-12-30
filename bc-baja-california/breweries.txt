@@ -43,6 +43,22 @@ Indian Pale Ale (Batari choracami)
 "Lagrimas Negras" 
 
 
+Cervecería Calafia   # en Tijuana
+  .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
+  
+- Golden Ale
+- Red Ale
+- Pale Ale
+- IPA
+
+Cervecería Kudos   # en Tijuana
+  .. Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
+- Strawberry Wheat
+- Hefeweizen
+- Mild Brown
+- Indian Pale Ale
+
+
 
 
 Ensenada Microbrewery

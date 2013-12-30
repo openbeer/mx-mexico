@@ -20,6 +20,21 @@ Victoria, 4%, by:gmodelo, ME, city:toluca, vienna_lager   #  Compañía Cervecer
 
 Estrella, by:gmodelo, JA, city:guadalajara      # tipo pilsner - Cervecería Estrella (hoy Cervecería Modelo de Guadalajara
 
+
+################
+#
+# Im Jahr 1900 wurde in Mérida, der Hauptstadt des Bundesstaates Yucatán,
+# die Cervecería Yucateca gegründet. Ihr erstes Bier León Negra wird noch heute produziert.
+# Zum 60-jährigen Bestehen der Brauerei wurde 1960 das Pilsener Montejo auf den Markt gebracht,
+# das dem Stadtgründer Francisco de Montejo gewidmet ist.
+# 1979 wurde die Brauerei von der Grupo Modelo erworben.
+# Seit Schließung der Brauerei im Jahr 2002 werden
+# die beliebten Biermarken León Negra und Montejo
+# von der ebenfalls zur Grupo Modelo gehörenden
+# Compañía Cervecera del Tropico im Bundesstaat Oaxaca produziert.
+#
+
+
 León, 4.5%,  by:gmodelo, munich_dunkel_lager    # tipo munich  - desde 1900
 
 Montejo, 4.5%, by:tropico   # desde 1900

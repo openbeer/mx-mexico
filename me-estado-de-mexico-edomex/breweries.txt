@@ -22,6 +22,12 @@ calavera, Cervecería Calavera     en Tlalnepantla de Baz   (Edomex, Estado de M
 # Barley Wine.
 # BeerCentenario.
 
+ 8 variedades de cerveza: American Pale Ale,
+ Witbier, Oktobeerfest (Märzenbier),
+ Smoky Scottish Ale, Mexican Imperial Stout,
+ Dubbel, Tripel y Barley Wine.
+
+
 
 jack, Cervecería Jack,  en Tlalnepantla de Baz
   ..  cerveceriajack.com  (Under Construction)

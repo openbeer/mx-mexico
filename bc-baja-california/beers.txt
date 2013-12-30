@@ -17,6 +17,10 @@ Cerveza Mexicali, pale_lager|lager
 Cerveza Mexicali Special (Dark), american_dark_lager
 Red Pig Mexican Ale, amber_ale|ale
 
+ Mexicali Pale Lager, Mexicali Special Dark, Trader José Dark Premium Lager,
+ Trader José Premium Lager,
+ Red Pig Ale y Chili Beer
+
 
 
 # by Cucapá Brewing Co
@@ -38,4 +42,6 @@ Cucapá Trigueña Wheat Ale     # Cerveza de Trigo
 # Cucapá Chupacabras (By the Chupacabra, the goat sucker, a famous cryptid being that appeared in Latin America in the early 90's, Pale Ale style)
 # Cucapá Barleywine
 
+ Cucapá cuenta con 7 tipos de cerveza embotellada con venta al público:
+ Clásica, Light, Honey, Trigueña, Obscura, Chupacabras y Barley Wine.
 
