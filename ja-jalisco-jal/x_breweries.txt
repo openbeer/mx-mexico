@@ -6,5 +6,6 @@
 ###################
 # Brewpubs
 
-Beer Lounge   # en Tlaquepaque / Guadalajara
-  .. www.beerlounge.com.mx (under construction!)
+[beerlounge]
+  Beer Lounge   # en Tlaquepaque / Guadalajara
+  www.beerlounge.com.mx (under construction!)

@@ -4,34 +4,38 @@
 # todo: organize by state / estado
 
 
-lalegendaria, Microcervecería La Legendaria, 2010     # en San Luis Potosi
+[lalegendaria]
+  Microcervecería La Legendaria, 2010     # en San Luis Potosi
 
 
-
-Cervecera Mexicana  # en Guanajuato
-
-
-Cervecería La Brü   # en  Morelia, Michoacan
+[mexicana]
+  Cervecera Mexicana  # en Guanajuato
 
 
-tepozteca, Cervecería Tepozteca    # en Tepoztlan
-  .. www.tepozteca.com
+[labrue]
+  Cervecería La Brü   # en  Morelia, Michoacan
 
 
+[tepozteca]
+  Cervecería Tepozteca    # en Tepoztlan
+  www.tepozteca.com
 
-afromestizo, Cerveza Afromestizo
- .. www.afromestizo.com
+
+[afromestizo]
+  Cerveza Afromestizo
+  www.afromestizo.com
 
 # Tlaloc 121
 # El Contadero, Cuajimalpa, 05500 Mexico City, Federal District
 
 
-dospalomas, Cerveza Dos Palomas
-  .. www.cervezadospalomas.com
+[dospalomas]
+  Cerveza Dos Palomas
+  www.cervezadospalomas.com
 
 #  D.F. Desierto de los Leones.
 
 
-
-Cerveceria Sileno     # still in operation - exists  ???
+[sileno]
+  Cerveceria Sileno     # still in operation - exists  ???
 

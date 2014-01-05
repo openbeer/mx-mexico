@@ -1,18 +1,20 @@
 ##########################
 #  Nuevo León, N.L.
 
+[especialidades]
+  Especialidades Cerveceras    #  en Monterrey
 
-Especialidades Cerveceras    #  en Monterrey
 
-
-Cervecería Propaganda, 2012   # en Monterrey
+[propaganda]
+  Cervecería Propaganda, 2012   # en Monterrey
 
 
 
 ################
 # brewpubs
 
-Sierra Madre Brewing Co., 1996
- .. www.smbc.com.mx
- .. Monterrey
+[smbc]
+  Sierra Madre Brewing Co., 1996
+  www.smbc.com.mx
+  // Monterrey
 

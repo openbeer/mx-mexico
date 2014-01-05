@@ -2,28 +2,25 @@
 # Hidalgo, Hgo.
 
 
--------------------------------
+______________________________
 -  Cervecería Cosaco
--------------------------------
 
 Cosaco Negra
 Cosaco Roja      #  tipo belga la única en México por su color rojo rubí
 Cosaco Guera
 
 
---------------------------------
+________________________________
 -  Cervecería Hacienda
---------------------------------
 
 Hidalgo, stout
 Catrina,  irish_red_ale
 Jaguar,   pale_ale
 
 
----------------------------------
-- Cerveza Benévolo
-------------------------------
+_____________________________
+- Cerveza Benévolo, Pachuca, Hgo.
 
-# Face weizenbock
+# Face Weizenbock
 # Beirosa Gruit
 # Boyka Spicy

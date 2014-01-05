@@ -4,7 +4,7 @@
 
 [mexicali]
   Cervecería Mexicali|Cervecería Mexicana
-  Ensenada | Baja California
+  // Ensenada | Baja California
   www.mexicalibeer.com
 
 # bought by Coors
@@ -18,7 +18,7 @@
 [cucapa]
   Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
   www.cucapa.com
-  Mexicali | Baja California
+  // Mexicali | Baja California
 
 # Blvd. López Mateos 2301 
 # Col. Sánchez Taboada,
@@ -56,9 +56,9 @@
 
 [calafia]
   Cervecería Calafia   # en Tijuana
-  Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
+  Av Venustiano Carranza #1123 Col. Libertad // Tijuana, B.C.
 
 [kudos]
   Cervecería Kudos   # en Tijuana
-  Av Venustiano Carranza #1123 Col. Libertad Tijuana, B.C.
+  Av Venustiano Carranza #1123 Col. Libertad // Tijuana, B.C.
 

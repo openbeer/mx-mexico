@@ -2,9 +2,8 @@
 #  Nuevo León, N.L.
 
 
-----------------------------------
+_________________________________
 -  Sierra Madre Brewing Co
-----------------------------------
 
 Regio
 Regio Light,    lager|lite
@@ -21,18 +20,16 @@ Chipinque Oktoberfest
 Navidad
 
 
----------------------------------
+_____________________________
 - Cervecería Propaganda
------------------------------------
 
 # American Pale Ale
 # Dry Stout
 # Ordinary Beer   - ??
 
 
---------------------------------
+_________________________________
 -  Especialidades Cerveceras      # still in operation???
---------------------------------
 
 Casta Bruna, pale_ale
 Casta Dorada, golden_ale|blond_ale

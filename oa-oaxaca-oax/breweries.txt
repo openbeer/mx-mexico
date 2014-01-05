@@ -2,6 +2,8 @@
 # Oaxaca, Oax.
 
 
-camarada, Cervecería Camarada, 2009   # en Cd. Oaxaca ??
+[camarada]
+  Cervecería Camarada, 2009   # en Cd. Oaxaca ??
+
 
 

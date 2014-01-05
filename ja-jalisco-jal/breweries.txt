@@ -2,19 +2,23 @@
 # Jalisco, Jal.
 
 
-minerva, Cervecería Minerva, 2002
-  .. www.cervezaminerva.mx
+[minerva]
+  Cervecería Minerva, 2002
+  www.cervezaminerva.mx
 
 # PERIFÉRICO SUR 4250, INTERIOR A3 COLONIA PERIODISTAS CP 45078
 # ZAPOPAN, JALISCO, MÉXICO
 
 
-revolucion, Cervecería Revolucion    # en Guadalajara
+[revolucion]
+  Cervecería Revolucion
+  # en Guadalajara
 
 
 ######
 
-Cervecería Ale & Ale  # en Guadalajara
+[aleale]
+  Cervecería Ale & Ale  # en Guadalajara
 
 # produce la cerveza Santo Remedio desde mediados de 2012.
 # Esta cerveza, producida en pequeña escala, ha tenido una buena aceptación en el mercado local;

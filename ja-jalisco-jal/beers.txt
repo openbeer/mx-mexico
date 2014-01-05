@@ -2,9 +2,8 @@
 # Jalisco, Jal.
 
 
--------------------------------------
--  Cervecería Minerva
--------------------------------------
+______________________________________
+-  Cervecería Minerva, Zapopan
 
 Minerva Colonial,   kölsch
 Minerva Viena (Oscura),     vienna_lager

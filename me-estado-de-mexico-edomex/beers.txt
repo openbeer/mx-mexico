@@ -2,9 +2,8 @@
 # Estado de México, Edomex.
 
 
--------------------------------------------
+_____________________________________________
 -  Cervecería Calavera|Gourment Calavera
--------------------------------------------
 
 Calavera Witbier,     weizen
 Calavera American Pale Ale,     pale_ale
@@ -19,9 +18,8 @@ Calavera Lovecraft  # ???
 Calavera Project X, brown_ale
 
 
--------------------------------------
+__________________________
 -  Cervecería Jack
--------------------------------------
 
 Jack Alebrije,  weissbier
 Jack Stout

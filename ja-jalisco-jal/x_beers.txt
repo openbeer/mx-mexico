@@ -1,9 +1,8 @@
 ############################################
 # Jalisco, Jal.   - out of business; no longer in operation, historical
 
-----------------------------
+_______________________
 -  Beer Lounge
------------------------------
 
 Magna IPA
 Magna Porter

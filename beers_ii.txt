@@ -1,19 +1,16 @@
 ########################
 # Cerveza Artesanal
 
-----------------------------------
+_______________________________________
 -  Microcerveceria La Legendaria
-----------------------------------
 
 1810, blonde_ale
 2 de Abril, pale_ale
 Segundo Imperio, porter
 
 
-
----------------------------------
+____________________________________
 -  Cervecera Mexicana
----------------------------------
 
 Caballero Águila
 Cheisy
@@ -21,10 +18,8 @@ Potro
 Horus
 
 
-
-------------------------------------
+________________________________
 - Cerveza Afromestizo
------------------------------------
 
 Don Hilaro    # Tropical Amber Ale
 Doña Amalia   # Pacific Pale Ale
@@ -33,9 +28,8 @@ Doña Amalia Cardamomo  # (medicinales)  -- beer?
 Doña Amalia Jamaica    #  (medicinales)  -- beer?
 
 
-------------------------------------
+______________________________
 - Cerveza Dos Palomas
--------------------------------------
 
 Dos Palomas Bitter
 Dos Palomas Ginger Ale
@@ -43,9 +37,8 @@ Dos Palomas Red Ale
 Dos Palomas Porter
 
 
--------------------------------
+_______________________________________
 -  Cerveceria Sileno    # still in operation - does it exist ???
----------------------------------
 
 Wiesnbier
 Brown Ale

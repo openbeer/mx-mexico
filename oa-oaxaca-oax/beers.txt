@@ -2,9 +2,8 @@
 # Oaxaca, Oax.
 
 
--------------------------------
--  Cervecería Camarada         
--------------------------------
+_________________________________
+-  Cervecería Camarada
 
 Camarada Schwarzbier
 Camarada Weissbier
