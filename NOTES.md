@@ -1,6 +1,13 @@
 
-# Quick Notes
+## Regions
 
+### Wikipedia
+
+- [List_of_regions_of_Mexico](http://en.wikipedia.org/wiki/List_of_regions_of_Mexico)
+- [Regiones_de_México (es)](http://es.wikipedia.org/wiki/Regiones_de_México)
+
+
+## Quick Notes
 
 El Depósito (beer store in mexico DF)
 
