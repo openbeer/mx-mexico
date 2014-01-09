@@ -1,44 +1,51 @@
 #########################
 # Baja California, B.C.
 
+
 _____________________________________________________
 -  T.J. Beer|Consorcio Cervecero de Baja California
 
-Tijuana Light, 3.5%, 8°, pale_lager|lager|lite
-Tijuana Rosarito Beach, 3.8%, 8.6°,  lager
-Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner
-Tijuana Morena,  4.8%, 11.5°,  schwartzbier
-Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock
+Tijuana Light, 3.5%, 8°, pale_lager|lager|lite        # amargo 8-12
+Tijuana Rosarito Beach, 3.8%, 8.6°,  american_lager   # amargo 14-17
+Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner  # amargo 17-25
+Tijuana Morena,  4.8%, 11.5°,  schwartzbier           # amargo 25-30
+Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock   # amargo 35-45
 
-# Tijuana Brava, dunkler_bock         # - Munchner Dunkel ? still exist or available ???
-# Tijuana Bronca Güera, german_pilsener     # still exist or available - same as Guera ???
+## -- cevezas de barril
 
-# http://www.tjbeer.com/cervezas.html
+Tijuana Brava, 5.3%, 13°, dark_lager|munchner_dunkel   # amargo 30-35
+Tijuana Bronca Güera, 4.6%, 11°,  bohemian_pilsener    # amargo 17-25
+Tijuana Bronca Morena, 4.8%, 11.5°, dark_lager|schwarzbier  # amargo 25-30
+
+# www.tjbeer.com/cervezas.html
 
 
 _____________________________________________
 -  Cervecería Mexicali|Cervecería Mexicana
 
 Mexicali Pale Lager, pale_lager|lager
-Mexicali Special Dark, american_dark_lager
+Mexicali Dark|Mexicali Special Dark, 6%, american_dark_lager   # check abv|alc ??
 Red Pig Mexican Ale|Red Pig Ale, amber_ale|red_ale|ale
 Chili Beer
 Trader José Premium Lager
 Trader José Dark Premium Lager,
 
-# http://hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
+# hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
 
 
 _________________________
--  Cucapá Brewing Co
+-  Cervecería Cucapá
 
-Cucapá Clásica, blonde_ale|golden_ale   # ?? check is lager not ale ??
-Cucapa Light,  pale_lager
-Cucapá Honey,   blonde_ale|golden_ale    # Contiene mile de abeja
-Cucapá Trigueña,  weizen|wheat_ale
-Cucapá Obscura,  brown_ale
-Cucapá Chupacabras, pale_ale
-Cucapá Barley Wine, barley_wine
+Cucapá Clásica, 4.5%, blonde_ale|golden_ale
+Cucapá Honey,  4.5%,  amber_ale    #   Contiene mile de abeja
+Cucapá Obscura,  4.8%, american_brown_ale
+Cucapá Chupacabras, 5.8%, american_pale_ale
+
+Cucapa Light,  3.5%,  pale_lager
+Cucapá Trigueña, 3.5%,  weizen|wheat_ale
+Cucapá Barley Wine,  10%, barley_wine
+
+
 
 Cucapá Lowrider Ale,  rye|ale    # listed in pocket beer book 2014
 Cucapá Imperial Stout      # exists ???

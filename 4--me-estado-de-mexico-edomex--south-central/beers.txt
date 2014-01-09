@@ -10,12 +10,13 @@ Calavera American Pale Ale,     pale_ale
 Calavera Smoky Scotish Ale 80/-,  scotch_ale
 Calavera Oktoberfest
 Calavera Mexican Imperial Stout,  stout
-Calavera Dubbel (de Abadia), abbey|ale
+Calavera Dubbel (de Abadia),  6.4%, abbey|ale
 Calavera Tripel (de Abadia), abbey|ale
 Calavera Barley Wine,  barleywine
 Calavera Schwarz,    schwartzbier
 Calavera Lovecraft  # ???
 Calavera Project X, brown_ale
+
 
 
 __________________________

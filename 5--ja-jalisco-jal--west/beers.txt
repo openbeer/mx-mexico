@@ -6,8 +6,8 @@ ______________________________________
 -  Cervecería Minerva, Zapopan
 
 Minerva Colonial,   kölsch
-Minerva Viena (Oscura),     vienna_lager
-Minerva Stout Imperial,  sweet_stout
+Minerva Viena (Oscura),  5%,     vienna_lager
+Minerva Stout Imperial,  6%,    sweet_stout
 Minerva Pale Ale,   pale_ale
 Minerva ITA (Imperial Tequila Ale), imperial_tequila_ale
 Minerva Diosa Blanca,  blanche_biere

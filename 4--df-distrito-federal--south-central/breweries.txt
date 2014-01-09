@@ -1,13 +1,19 @@
 #############################
 # Distrito Federal, D.F.
 
+[cosaco]
+  Cosaco|Cerveza Cosaco, 2000
+  cervezacosaco.com
+  twitter: cervezacosaco
+  facebook: Cosaco
+
 
 [primus]
   Cervecería Primus|Andreu Primus, 2007
   Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal
   www.primus.com.mx
   twitter: PrimusBreweryMX
-
+  facebook: cerveceria.primus
 # elaboradores de la cerveza Tempus
 
 

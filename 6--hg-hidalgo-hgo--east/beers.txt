@@ -13,9 +13,9 @@ Cosaco Guera
 ________________________________
 -  Cervecería Hacienda
 
-Hidalgo, stout
-Catrina,  irish_red_ale
-Jaguar,   pale_ale
+Hidalgo, 7%, stout           # check abv
+Catrina, 7%, irish_red_ale   # - check abv, pale_ale ??
+Jaguar,  7%, pale_ale         # check abv
 
 
 _____________________________

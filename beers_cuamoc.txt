@@ -5,10 +5,10 @@
 __________________________
 - Cuauhtémoc Moctezuma
 
-Dos Equis|Dos XX|Dos XX Lager|Dos Equis Lager Especial, 4.3%, pale_lager  # estilo pilsen; Color: Clara
+Dos Equis|Dos XX|Dos XX Lager|XX Lager|Dos Equis Lager Especial, 4.3%, pale_lager  # estilo pilsen; Color: Clara
 # see www.cuamoc.com/es/cerveza/dos-equis
 
-Dos Equis Ambar|Dos XX Ambar,  4.7%, vienna_lager   # use dark lager as synonym ??; Color: Ambar
+Dos Equis Ambar|Dos XX Ambar|XX Ambar,  4.7%, vienna_lager   # use dark lager as synonym ??; Color: Ambar
 # see www.cuamoc.com/es/cerveza/dos-equis-ambar
 
 
@@ -18,9 +18,6 @@ Bohemia|Bohemia Clásica, 5.3%, pale_lager         #  Origen: Monterrey, Nuevo L
 
 Bohemia Oscura, 5.5%,  vienna_lager     # Origen: Monterrey N.L; Color: oscuro
 # see www.cuamoc.com/es/cerveza/bohemia-oscura
-
-Bohemia Weizen, 5.7%, weizen     # Origen: Monterrey N.L.; Color: Dorado
-# see www.cuamoc.com/es/cerveza/bohemia-weizen
 
 
 Tecate, 4.5%, pale_lager     # tipo pilsen; Origen: Tecate, Baja California Norte. 1944; Color: Clara
@@ -46,9 +43,10 @@ Superior Morena
 # see www.cuamoc.com/es/cerveza/superior-morena
 
 
-Sol, 4.5%,  lager|pale_lager  #  - 1899 -- style: American Adjunct Lager ?? use pale_lager ??
+Sol|Sol Clara, 4.2%,  lager|pale_lager  #  - 1899 -- style: American Adjunct Lager ?? use pale_lager ??
 # Origen: Distrito Federal,  1899; Color: Clara
 # see www.cuamoc.com/es/cerveza/sol
+
 
 
 
@@ -62,6 +60,9 @@ Noche Buena, 5.9%,   bock|seasonal|christmas   # Origen: Orizaba, Veracruz, Colo
 
 Bohemia Chocolate Stout, 5.7%,  stout|seasonal   # Origen: Monterrey N.L, México; Color: Obscuro
 # see www.cuamoc.com/es/cerveza/bohemia-chocolate-stout
+
+Bohemia Weizen, 5.7%, weizen|seasonal     # Origen: Monterrey N.L.; Color: Dorado  -- check if seasonal??
+# see www.cuamoc.com/es/cerveza/bohemia-weizen
 
 
 

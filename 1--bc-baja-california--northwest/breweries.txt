@@ -13,18 +13,17 @@
 [tjbeer]
   Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
   www.tjbeer.com
+  wikipedia: Tijuana_Beer
+  Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.
 
 
 [cucapa]
-  Cucapá Brewing Co|Cucapá|Cervecería de Baja California, 2002
+  Cucapá|Cervecería Cucapá|Cucapá Brewing Co|Cervecería de Baja California, 2002
   www.cucapa.com
-  // Mexicali | Baja California
+  wikipedia: Cucapá_Beer|Cerveceria_de_Baja_California
+  Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.
 
-# Blvd. López Mateos 2301 
-# Col. Sánchez Taboada,
-# Mexicali, B.C.
-
-# en.wikipedia.org/wiki/Cervecería_de_Baja_California  (former name of brewpub)
+# note: Cervecería_de_Baja_California  (former name of brewpub)
 
 
 
