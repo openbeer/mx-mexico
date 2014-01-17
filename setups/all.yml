@@ -1,0 +1,31 @@
+
+breweries:
+- mx-mexico!/1--bc-baja-california--northwest/breweries
+- mx-mexico!/1--bs-baja-california-sur-bcs--northwest/breweries
+- mx-mexico!/2--nl-nuevo-leon--northeast/breweries
+- mx-mexico!/3--qe-queretaro-qro-north-central/breweries
+- mx-mexico!/4--df-distrito-federal--south-central/breweries
+- mx-mexico!/4--me-estado-de-mexico-edomex--south-central/breweries
+- mx-mexico!/5--ja-jalisco-jal--west/breweries
+- mx-mexico!/6--hg-hidalgo-hgo--east/breweries
+- mx-mexico!/6--pb-puebla-pue--east/breweries
+- mx-mexico!/6--ve-veracruz-ver--east/breweries
+- mx-mexico!/7--oa-oaxaca-oax--southwest/breweries
+- mx-mexico!/breweries
+- mx-mexico!/breweries_ii
+
+beers:
+- mx-mexico!/1--bc-baja-california--northwest/beers
+- mx-mexico!/1--bs-baja-california-sur-bcs--northwest/beers
+- mx-mexico!/2--nl-nuevo-leon--northeast/beers
+- mx-mexico!/3--qe-queretaro-qro-north-central/beers
+- mx-mexico!/4--df-distrito-federal--south-central/beers
+- mx-mexico!/4--me-estado-de-mexico-edomex--south-central/beers
+- mx-mexico!/5--ja-jalisco-jal--west/beers
+- mx-mexico!/6--hg-hidalgo-hgo--east/beers
+- mx-mexico!/6--pb-puebla-pue--east/beers
+- mx-mexico!/6--ve-veracruz-ver--east/beers
+- mx-mexico!/7--oa-oaxaca-oax--southwest/beers
+- mx-mexico!/beers_cuamoc
+- mx-mexico!/beers_modelo
+- mx-mexico!/beers_ii
