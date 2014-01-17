@@ -11,7 +11,7 @@ Minerva Stout Imperial,  6%,    sweet_stout
 Minerva Pale Ale,   pale_ale
 Minerva ITA (Imperial Tequila Ale), imperial_tequila_ale
 Minerva Diosa Blanca,  blanche_biere
-Minerva 8:60, 8%, ipa # India Pale Ale,
+### Minerva 8:60, 8%, ipa # India Pale Ale,     -- fix!!!! add : to title_to_key n uncomment!!
 Minerva Lupe Reyes,  7.7%,  dunkel|doppelbock|weizen  #  estilo Dunkel Dopel Bock
 Malverde, pilsner    # Pilsner Continental
 
@@ -21,5 +21,6 @@ Minerva Rila, seasonal   # listed in pocket beer book 2014
 # famosa por su alusión al polémico Santo de los delincuentes y narcotraficantes.
 
 # http://www.cervezaminerva.mx/cervezas_minerva.html
+
 
 

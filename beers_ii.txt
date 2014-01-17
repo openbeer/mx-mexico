@@ -4,15 +4,15 @@
 _______________________________________
 -  Microcerveceria La Legendaria
 
-1810, blonde_ale
-2 de Abril, pale_ale
+milochoccientosdiez, 1810, blonde_ale   # note: use explicit key for number e.g. 1810
+segundodeabril, 2 de Abril, pale_ale    # note: use explicit key for number e.g. 2 de ...
 Segundo Imperio, porter
 
 
 ____________________________________
 -  Cervecera Mexicana
 
-Caballero Águila
+## Caballero Águila  -- fix: title_to_key!! w/  Á
 Cheisy
 Potro
 Horus

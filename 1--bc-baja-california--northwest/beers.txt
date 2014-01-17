@@ -70,7 +70,7 @@ _________________________________________
 Batari Chónami,  brown_ale                 # Cerveza Obscura con un toque de piloncillo
 Batari Turio ari biche Amoque, weizen   # Cerveza de trigo y miel con chile chipotle seco
 Batari Choracami, ipa          # India Pale Ale
-100 Dias
+ciendias, 100 Dias    # note: key cannot start w/ number
 Lágrimas Negras, stout    # imperial (chocolaty oatmeal) stout; >10% Alc. Vol.
 Bucéfalo, imperial_stout
 
