@@ -12,7 +12,7 @@ Segundo Imperio, porter
 ____________________________________
 -  Cervecera Mexicana
 
-## Caballero Águila  -- fix: title_to_key!! w/  Á
+Caballero Águila
 Cheisy
 Potro
 Horus
