@@ -53,9 +53,20 @@
 [mexicana]
   Cervecera Mexicana  # en Guanajuato
 
-
 [labrue]
-  Cervecería La Brü   # en  Morelia, Michoacan
+  La Brü|Cervecería La Brü   # en  Morelia, Michoacan
+  f:  cerveza.labru
+  
+  ## Cervezas
+  La Brü Copper,       IBU: 20, ABV: 5.2-5.7, SRM: 11, G: 1.051, american amber ale
+  La Brü Porter        IBU: 21, ABV: 6.2-6.7, SRM: 20, G: 1.062, brown porter
+  La Brü Stout,        IBU: 15, ABV: 4.8-5.3, SRM: 31, G: 1.052, sweet stout
+  IPA,          IBU: 47, ABV: 5.9-6.4, SRM: 4, G: 1.054, ipa
+  Imperial IPA, IBU: 69, ABV: 7.2-7.8, SRM: 8, G: 1.072, imperial ipa
+  Ginger Ale,   IBU: 13, ABV: 4.7-5.2, SRM: 12, G: 1.046, ginger ale
+  Maiz Azul
+  Mexican Barleywine
+  Winter Ale
 
 
 [tepozteca]
