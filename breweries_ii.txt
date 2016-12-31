@@ -3,6 +3,48 @@
 
 # todo: organize by state / estado
 
+[7barrios]
+  7 Barrios | 7B | Siete Barrios | Cervezas Extra Premium de San Luis, 2010
+  
+  web: www.7barrios.com.mx
+  f:   Cerveceria7B
+  t:   cerveza7barrios
+
+  ## Cervezas de Linea
+  7 Barrios Blonde,  ABV: 4.8, IBU: 18, SRM: 5,  G: 1.065-1.095,  mexican blonde ale
+  7 Barrios Weizen,  ABV: 4.8, IBU: 14, SRM: 8,  G: 1.040-1.055,  hefeweizen
+  7 Barrios Pale,    ABV: 5.5, IBU: 45, SRM: 10,  american pale ale
+  7 Barrios Amber,   ABV: 5.1, IBU: 25, SRM: 15, G: 1.048-1.058,  american amber ale
+  7 Barrios Brown,   ABV: 5.1, IBU: 19, SRM: 32, G: 1.040-1.050,  english brown ale
+  7 Barrios Porter,  ABV: 6,   IBU: 35, SRM: 30,  robust porter
+
+  ##  Cervezas de Temporada
+  1 + 1 = 3,   ABV: 7.5, IBU: 30, SRM: 26, strong red ale         # Disponibilidad: Primavera
+  Celebration, ABV: 5.8, IBU: 20, SRM: 5,  spice and herb beer  # Disponibilidad: Verano 
+  Basilon,     ABV: 6,   IBU: 33, SRM: 10, spice and herb beer   # Disponibilidad: Otoño
+  Chocolate,   ABV: 7,   IBU: 18, SRM: 35, chocolate christmas ale  # Disponibilidad: Invierno
+
+  ## Cervezas Mild
+  Mild Clara,   ABV: 3.8, IBU: 15, SRM: 4,   mild ale
+  Mild Obscura, ABV: 3.8, IBU: 15, SRM: 30,  mild ale
+
+  ## Cervezas de la casa / especialidad
+  Lola,        ABV: 7,   IBU: 60, SRM: 30,    black ipa
+  Yakobi,      ABV: 6.2, IBU: 28, SRM: 35,    oatmeal stout
+  Yo La Tengo, ABV: 6.5, IBU: 65, SRM: 9,     ipa
+  Verano Peligroso,  ABV: 5.5, IBU: 12, SRM: 5, fruit beer
+  Chica de Humo, ABV: 6.2, IBU: 30, SRM: 30,  smoke porter
+  Wilco,         ABV: 5.5, IBU: 15, SRM: 5,   ginger ale
+
+[7barrios "Cervecería + Tienda 7B"]
+  Cuauhtémoc #1605-D casi esquina Valentín Gama, colonia Jardín 
+  San Luis Potosí, S.L.P 
+
+[7barrios "Callejón 7B"] # tap/pub 
+  Universidad 153, Callejón de San Francisco, Colonia Centro. 
+  San Luis Potosí, S.L.P 
+
+
 
 [lalegendaria]
   Microcervecería La Legendaria, 2010     # en San Luis Potosi
