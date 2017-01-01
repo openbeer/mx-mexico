@@ -1,6 +1,25 @@
 ##########################
 #  Nuevo León, N.L.
 
+[bracino]
+  Bracino, 2012           # en  Monterrey, NL
+  Bulevard Díaz Ordaz 112B, 
+  Col. Trabajadores, CP. 66149,
+  Santa Catarina, Nuevo León
+
+  web: www.bracino.com.mx
+  f:   /cerveceriabracino
+  t:   @inbracino
+
+  ## Cervezas
+  Bracino Blonde Ale,        IBU: 31, SRM: 4.5, ABV: 4.5, OG: 1.045, FG: 1.010, blonde ale
+  Bracino English Pale Ale,  IBU: 29, SRM: 9.0, ABV: 4.5, OG: 1.054, FG: 1.019, english pale ale
+  Bracino Brown Ale,         IBU: 24, SRM: 15.5, ABV: 4.5, OG: 1.050, FG: 1.015, american brown ale
+  Becerro|Becerro Stout, IBU: 45,  SRM: 44, ABV: 5.5, G: 1.065, oatmeal milk stout
+  Lote 23,           IBU: 30, SRM: 4.5, ABV 4.5, G: 1.045, blonde ale
+  # Nomada Smoked Ale
+
+
 [especialidades]
   Especialidades Cerveceras    #  en Monterrey
 
@@ -15,6 +34,6 @@
 
 [smbc]
   Sierra Madre Brewing Co., 1996
-  www.smbc.com.mx
+  web: www.smbc.com.mx
   // Monterrey
 
