@@ -12,11 +12,10 @@
   t:   @inbracino
 
   ## Cervezas
-  Bracino Blonde Ale,        IBU: 31, SRM: 4.5, ABV: 4.5, OG: 1.045, FG: 1.010, blonde ale
-  Bracino English Pale Ale,  IBU: 29, SRM: 9.0, ABV: 4.5, OG: 1.054, FG: 1.019, english pale ale
-  Bracino Brown Ale,         IBU: 24, SRM: 15.5, ABV: 4.5, OG: 1.050, FG: 1.015, american brown ale
-  Becerro|Becerro Stout, IBU: 45,  SRM: 44, ABV: 5.5, G: 1.065, oatmeal milk stout
-  Lote 23,           IBU: 30, SRM: 4.5, ABV 4.5, G: 1.045, blonde ale
+  Bracino Blonde Ale|Lote 23,   IBU: 31, SRM: 4.5, ABV: 4.5, OG: 1.045, FG: 1.010, blonde ale
+  Bracino English Pale Ale,     IBU: 29, SRM: 9.0, ABV: 4.5, OG: 1.054, FG: 1.019, english pale ale
+  Bracino Brown Ale,            IBU: 24, SRM: 15.5, ABV: 4.5, OG: 1.050, FG: 1.015, american brown ale
+  Becerro|Becerro Stout,        IBU: 45,  SRM: 44, ABV: 5.5, G: 1.065, oatmeal milk stout
   # Nomada Smoked Ale
 
 
