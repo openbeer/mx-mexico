@@ -21,12 +21,24 @@
 
 
 [especialidades]
-  Especialidades Cerveceras    #  en Monterrey
+  Especialidades Cerveceras    #  en Monterrey   -- still in operation???
+
+  ## Cervezas
+  Casta Bruna, pale ale
+  Casta Dorada, golden ale|blond ale
+  Casta Milenia, belgian strong ale
+  Casta Morena,  brown ale
+  Casta Triguera,  wheat ale
+  Casta Unica,    belgian strong ale
 
 
 [propaganda]
   Cervecería Propaganda, 2012   # en Monterrey
 
+  ## Cervezas
+  # American Pale Ale
+  # Dry Stout
+  # Ordinary Beer   - ??
 
 
 ################
@@ -36,4 +48,19 @@
   Sierra Madre Brewing Co., 1996
   web: www.smbc.com.mx
   // Monterrey
+  
+  ## Cervezas
+  Regio
+  Regio Light,    lager|lite
+  Obispado
+  La Silla
+  El Fraile
+  Las Cumbres
+  Matacanes
+  Huasteca
+  Mirador
+  Huajuco
+  Olinala
+  Chipinque Oktoberfest
+  Navidad
 
