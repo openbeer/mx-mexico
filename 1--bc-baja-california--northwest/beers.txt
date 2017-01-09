@@ -2,66 +2,9 @@
 # Baja California, B.C.
 
 
-_____________________________________________________
--  T.J. Beer|Consorcio Cervecero de Baja California
-
-Tijuana Light, 3.5%, 8°, pale_lager|lager|lite        # amargo 8-12
-Tijuana Rosarito Beach, 3.8%, 8.6°,  american_lager   # amargo 14-17
-Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner  # amargo 17-25
-Tijuana Morena,  4.8%, 11.5°,  schwartzbier           # amargo 25-30
-Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock   # amargo 35-45
-
-## -- cevezas de barril
-
-Tijuana Brava, 5.3%, 13°, dark_lager|munchner_dunkel   # amargo 30-35
-Tijuana Bronca Güera, 4.6%, 11°,  bohemian_pilsener    # amargo 17-25
-Tijuana Bronca Morena, 4.8%, 11.5°, dark_lager|schwarzbier  # amargo 25-30
-
-# www.tjbeer.com/cervezas.html
-
-
-_____________________________________________
--  Cervecería Mexicali|Cervecería Mexicana
-
-Mexicali Pale Lager, pale_lager|lager
-Mexicali Dark|Mexicali Special Dark, 6%, american_dark_lager   # check abv|alc ??
-Red Pig Mexican Ale|Red Pig Ale, amber_ale|red_ale|ale
-Chili Beer
-Trader José Premium Lager
-Trader José Dark Premium Lager,
-
-# hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
-
-
-_________________________
--  Cervecería Cucapá
-
-Cucapá Clásica, 4.5%, blonde_ale|golden_ale
-Cucapá Honey,  4.5%,  amber_ale    #   Contiene mile de abeja
-Cucapá Obscura,  4.8%, american_brown_ale
-Cucapá Chupacabras, 5.8%, american_pale_ale
-
-Cucapa Light,  3.5%,  pale_lager
-Cucapá Trigueña, 3.5%,  weizen|wheat_ale
-Cucapá Barley Wine,  10%, barley_wine
 
 
 
-Cucapá Lowrider Ale,  rye|ale    # listed in pocket beer book 2014
-Cucapá Imperial Stout      # exists ???
-
-# http://www.cucapa.com/esp/pages/beers.php
-# http://en.wikipedia.org/wiki/Cucapá_Beer
-
-# -- Honey/ Amber Ale
-# La Migra/ Imperial Stout
-# Runaway/ Ipa
-# Lowrider/ Double Rye
-# Green Card/ Barley Wine
-# Tequila/ Barrel Aged Ale
-# La Migra Winter/ Imperial Stout
-# Baja Buggy/ Kolsch Style
-# Imperio/ Red Ale
 
 
 _________________________________________
@@ -133,6 +76,3 @@ Kudos Strawberry Wheat
 Kudos Hefeweizen
 Kudos Mild Brown
 Kudos IPA (India Pale Ale)
-
-
-

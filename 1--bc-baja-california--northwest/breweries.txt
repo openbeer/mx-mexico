@@ -2,28 +2,76 @@
 # Cerveceria Artesanal, Baja California, B.C.
 
 
-[mexicali]
-  Cervecería Mexicali|Cervecería Mexicana
-  // Ensenada | Baja California
-  www.mexicalibeer.com
+__________________________________________________
+Mexicali|Cervecería Mexicali|Cervecería Mexicana      # bought by Coors
+  // Ensenada, B.C.
+  w: www.mexicalibeer.com
 
-# bought by Coors
+Mexicali Pale Lager,                     pale_lager|lager
+Mexicali Dark|Mexicali Special Dark, 6%, american_dark_lager   # check abv|alc ??
+Red Pig Mexican Ale|Red Pig Ale,         amber_ale|red_ale|ale
+Chili Beer
+Trader José Premium Lager
+Trader José Dark Premium Lager
+
+# hazcerveza.com/cervezas-de-mexico/cerveza-mexicali-pilsener
 
 
-[tjbeer]
-  Consorcio Cervecero de Baja California|T.J. Beer|Tijuana Beer, 1996
-  www.tjbeer.com
-  wikipedia: Tijuana_Beer
+____________________________________________________________________
+T.J. Beer|Tijuana Beer|Consorcio Cervecero de Baja California, 1996
   Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.
+  w: www.tjbeer.com
+  wikipedia: Tijuana_Beer
+
+Tijuana Light, 3.5%, 8°, pale_lager|lager|lite        # amargo 8-12
+Tijuana Rosarito Beach, 3.8%, 8.6°,  american_lager   # amargo 14-17
+Tijuana Güera,   4.6%, 11°,   bohemian_pilsner|czech_pilsner  # amargo 17-25
+Tijuana Morena,  4.8%, 11.5°,  schwartzbier           # amargo 25-30
+Tijuana Bufadora, 7.5%, 18.5°,  doppelbock|maibock|bock   # amargo 35-45
+
+## -- cevezas de barril
+
+Tijuana Brava, 5.3%, 13°, dark_lager|munchner_dunkel   # amargo 30-35
+Tijuana Bronca Güera, 4.6%, 11°,  bohemian_pilsener    # amargo 17-25
+Tijuana Bronca Morena, 4.8%, 11.5°, dark_lager|schwarzbier  # amargo 25-30
+
+# www.tjbeer.com/cervezas.html
 
 
-[cucapa]
-  Cucapá|Cervecería Cucapá|Cucapá Brewing Co|Cervecería de Baja California, 2002
-  www.cucapa.com
-  wikipedia: Cucapá_Beer|Cerveceria_de_Baja_California
+_________________________________________________________________________________
+Cucapá|Cervecería Cucapá|Cucapá Brewing Co|Cervecería de Baja California, 2002
   Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.
+  w: www.cucapa.com
+  wikipedia: Cucapá_Beer|Cerveceria_de_Baja_California
 
 # note: Cervecería_de_Baja_California  (former name of brewpub)
+
+Cucapá Clásica,     4.5%, blonde_ale|golden_ale
+Cucapá Honey,       4.5%, amber_ale    #   Contiene mile de abeja
+Cucapá Obscura,     4.8%, american_brown_ale
+Cucapá Chupacabras, 5.8%, american_pale_ale
+
+Cucapa Light,       3.5%, pale_lager
+Cucapá Trigueña,    3.5%, weizen|wheat_ale
+Cucapá Barley Wine,  10%, barley_wine
+
+Cucapá Lowrider Ale,  rye|ale    # listed in pocket beer book 2014
+Cucapá Imperial Stout      # exists ???
+
+
+# more info:
+#  www.cucapa.com/esp/pages/beers.php
+#  en.wikipedia.org/wiki/Cucapá_Beer
+
+# -- Honey/ Amber Ale
+# La Migra/ Imperial Stout
+# Runaway/ Ipa
+# Lowrider/ Double Rye
+# Green Card/ Barley Wine
+# Tequila/ Barrel Aged Ale
+# La Migra Winter/ Imperial Stout
+# Baja Buggy/ Kolsch Style
+# Imperio/ Red Ale
 
 
 
@@ -38,8 +86,8 @@
   Canneria Cerveza, 2010    # en Ensenada
   www.canneriacerveza.com.mx
 
-# Blvd. Costero no. 656 int. 
-# H-8 Zona Centro C.P. 22800 
+# Blvd. Costero no. 656 int.
+# H-8 Zona Centro C.P. 22800
 # Ensenada B.C.
 
 
@@ -60,4 +108,3 @@
 [kudos]
   Cervecería Kudos   # en Tijuana
   Av Venustiano Carranza #1123 Col. Libertad // Tijuana, B.C.
-
